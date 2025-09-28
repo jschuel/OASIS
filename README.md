@@ -35,32 +35,3 @@ OASIS/
   eval.py	      # evaluate(cfg), view_and_process()
   generate_tensors.py # Script to generate pytorch tensors from dataframe contents
 ```
-
-## USAGE in a jupyter notebook
-```python
-from OASIS import OASISConfig, train, evaluate, view_and_process
-
-cfg = OASISConfig(
-    data_root="OASIS/data/tensors",
-    out_dir="OASIS/data/models",
-    epochs=50, batch_size=16, device="cuda"
-)
-
-# (once) generate tensors from .feather dataframes:
-# !python generate_tensors.py
-
-# Train
-"""No training data is included here
-but if you have training data you can
-of course call train() as shown below
-to train a model"""
-#model = train(cfg)
-
-# Evaluate (on test NR, for example)
-#cfg.eval_split = "test" #this is already handled in the configuration
-model, ds, metrics = evaluate(cfg, species="NR")
-print(metrics)
-
-# Visualize one
-_ = view_one(model, ds, idx=0, invert=True, plot=True)
-```
