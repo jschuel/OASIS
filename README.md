@@ -1,10 +1,11 @@
 # OASIS Overlap-Aware Segmentation of ImageS
 
 OASIS is a Pytorch-based pixel-level segmentation-regression framework designed to
-separate overlapping objects in scientific image data. OASIS employs custom loss
+separate overlapping objects in scientific image data. OASIS employs a custom loss
 function with region-specific weights that can be tuned to prioritize overlapping
-pixels during training. A paper detailing the framework and its performance
-on data from the MIGDAL experiment is in progress and will be linked soon.
+pixels during training. See [our paper](https://arxiv.org/abs/2510.06194) for more
+details about the framework. Check back here for updates -- detailed documentation,
+code updates, and sample data are coming soon!
 
 ![OASISGif](figures/OASIS.gif)
 
