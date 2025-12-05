@@ -23,7 +23,7 @@ makedirs() {
 
 # Main function
 main() {
-    echo "Downloading zip files"
+    echo "Downloading data and weights files"
     download_files
     echo "Done!"
     echo "Making relevant directories"
