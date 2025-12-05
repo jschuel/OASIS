@@ -23,7 +23,19 @@ then
 conda activate OASIS
 ```
 
-1. Navigate to the parent `OASIS` directory and install the package with
+1. Clone the OASIS repository
+
+```
+git clone https://github.com/jschuel/OASIS.git
+```
+
+or
+
+```
+git clone git@github.com:jschuel/OASIS.git
+```
+
+2. Navigate to the parent `OASIS` directory and install the package with
 
 ```
 pip install -e .
@@ -31,7 +43,7 @@ pip install -e .
 
 Running this will install all required dependencies **except** pytorch.
 
-2. Follow the instructions on the installation guide of the front page of the [PyTorch website](https://pytorch.org/) to install pytorch. The “compute platform” row allows you to select the relevant platform for your GPU or “CPU only” if you do not have a compatible GPU
+3. Follow the instructions on the installation guide of the front page of the [PyTorch website](https://pytorch.org/) to install pytorch. The “compute platform” row allows you to select the relevant platform for your GPU or “CPU only” if you do not have a compatible GPU
 
 ## Package Layout
 ```
