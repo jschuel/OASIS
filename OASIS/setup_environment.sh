@@ -2,11 +2,11 @@
 
 # Download files using wget
 download_files() {
-    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/blob/main/data/dataframes/NR.pkl"
-    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/blob/main/data/dataframes/hybrid.pkl"
-    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/blob/main/data/models/no_weights.pt"
-    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/blob/main/data/models/nominal_weights.pt"
-    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/blob/main/data/models/overlap_only_weights.pt"
+    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/raw/main/data/dataframes/NR.pkl?ref_type=heads"
+    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/raw/main/data/dataframes/hybrid.pkl?ref_type=heads"
+    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/raw/main/data/models/no_weights.pt?ref_type=heads"
+    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/raw/main/data/models/nominal_weights.pt?ref_type=heads"
+    wget -q --show-progress "https://lobogit.unm.edu/jschueler1/oasis_sample_data/-/raw/main/data/models/overlap_only_weights.pt?ref_type=heads"
 }
 
 # Function to make directories
