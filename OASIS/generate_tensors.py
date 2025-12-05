@@ -119,16 +119,12 @@ if __name__ == "__main__":
     In this sample package we are only generating tensors for the
     test set so we can evaluate pre-trained models.
     """
-
-    #Let's generate both for the hybrid and NR-only testsets
-    #You can manually change the paths here for your use-case
-
     cfg = OASISConfig()
     split = 'test' # Can be train or test
     outpath = cfg.data_root
     dataframe_dir = cfg.dataframe_root
-    dataframepaths = {'hybrid': os.path.join(dataframe_dir,'hybrid_test.pkl'),
-                      'NR': os.path.join(dataframe_dir,'NR_test.pkl')}
+    dataframepaths = {'hybrid': os.path.join(dataframe_dir,'hybrid.pkl'),
+                      'NR': os.path.join(dataframe_dir,'NR.pkl')}
 
     for (key,path) in zip(dataframepaths.keys(),dataframepaths.values()):
         generate_from_df(pickle_path = path,
