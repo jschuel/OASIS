@@ -45,14 +45,25 @@ Running this will install all required dependencies **except** pytorch.
 
 3. Follow the instructions on the installation guide of the front page of the [PyTorch website](https://pytorch.org/) to install pytorch. The “compute platform” row allows you to select the relevant platform for your GPU or “CPU only” if you do not have a compatible GPU
 
+4. Navigate to OASIS/OASIS and run
+
+```
+source setup_environment.sh
+```
+
+This script will download test data and three trained OASIS models that you can use to test the software
+
+5. That's it! Now you can try out OASIS by running the Jupyter Notebook tutorial at `OASIS/OASIS/tutorial.ipynb`
+
 ## Package Layout
 ```
 OASIS/
-  config.py           # OASISConfig (single dataclass)
-  datasets.py         # OASISDataset in pytorch
-  model.py            # UNetSmall (GroupNorm+SiLU, Softplus head)
-  losses.py           # SegRegLoss + masked_tv (smoothness)
-  train.py            # train(cfg)
-  eval.py	      # evaluate(cfg), view_and_process()
-  generate_tensors.py # Script to generate pytorch tensors from dataframe contents
+  config.py            # OASISConfig (single dataclass)
+  datasets.py          # OASISDataset in pytorch
+  model.py             # UNetSmall (GroupNorm+SiLU, Softplus head)
+  losses.py            # SegRegLoss + masked_tv (smoothness)
+  train.py             # train(cfg)
+  eval.py	       # evaluate(cfg), view_and_process()
+  generate_tensors.py  # Script to generate pytorch tensors from dataframe contents
+  setup_environment.sh # Script to download data and place it in target directories
 ```
