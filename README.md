@@ -11,7 +11,7 @@ code updates, and sample data are coming soon!
 
 ## Installation
 
-0. *(Recommended)*: Create and activate a dedicated anaconda environment for OASIS:
+0. **(Recommended)**: Create and activate a dedicated anaconda environment for OASIS:
 
 ```
 conda create -n OASIS python=3.10
@@ -29,7 +29,7 @@ conda activate OASIS
 pip install -e .
 ```
 
-Running this will install all required dependencies *except* pytorch.
+Running this will install all required dependencies **except** pytorch.
 
 2. Follow the instructions on the installation guide of the front page of the [PyTorch website](https://pytorch.org/) to install pytorch. The “compute platform” row allows you to select the relevant platform for your GPU or “CPU only” if you do not have a compatible GPU
 
