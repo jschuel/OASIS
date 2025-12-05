@@ -11,19 +11,27 @@ code updates, and sample data are coming soon!
 
 ## Installation
 
+0. *(Recommended)*: Create and activate a dedicated anaconda environment for OASIS:
+
+```
+conda create -n OASIS python=3.10
+```
+
+then
+
+```
+conda activate OASIS
+```
+
 1. Navigate to the parent `OASIS` directory and install the package with
 
-```python
+```
 pip install -e .
 ```
 
-**Note**: Installing OASIS doesn't install any other python packages
-so you'll need to install all dependencies. The main ones are
--numpy
--pandas
--pytorch
--matplotlib
--tqdm
+Running this will install all required dependencies *except* pytorch.
+
+2. Follow the instructions on the installation guide of the front page of the [PyTorch website](https://pytorch.org/) to install pytorch. The “compute platform” row allows you to select the relevant platform for your GPU or “CPU only” if you do not have a compatible GPU
 
 ## Package Layout
 ```
