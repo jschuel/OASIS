@@ -11,7 +11,6 @@ class OASISConfig:
     """
     # Data
     data_root: str = "../data/tensors" # path containing {train,val,test}/{hybrid,NR}/*.pt
-    #data_root: str = "/media/jeef/ssd_data/Migdal/hybrids/segTensorsNew/"
     kinds: Sequence[str] = ("hybrid", "NR") # species subfolders for data_root
     split: str = "train" # used by dataset helpers
     hw: Tuple[int,int] = (288, 512) # (H,W) image dimensions
