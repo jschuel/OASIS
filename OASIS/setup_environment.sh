@@ -30,11 +30,11 @@ main() {
     makedirs
 
     echo "Moving files to their appropriate directories"
-    mv NR.pkl ../data/dataframes
-    mv hybrid.pkl ../data/dataframes
-    mv no_weights.pt ../data/models
-    mv nominal_weights.pt ../data/models
-    mv overlap_only_weights.pt ../data/models
+    mv "NR.pkl?ref_type=heads" ../data/dataframes/NR.pkl
+    mv "hybrid.pkl?ref_type=heads" ../data/dataframes/hybrid.pkl
+    mv "no_weights.pt?ref_type=heads" ../data/models/no_weights.pt
+    mv "nominal_weights.pt?ref_type=heads" ../data/models/nominal_weights.pt
+    mv "overlap_only_weights.pt?ref_type=heads" ../data/models/overlap_only_weights.pt
 
     echo "SUCCESS!"
 }
