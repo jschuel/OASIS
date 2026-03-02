@@ -1,0 +1,23 @@
+# eval.sub
+universe              = vanilla
+getenv                = True
+
+request_cpus          = 2
+request_memory        = 8GB
+
+executable            = /bin/bash
+arguments             = -lc "set -euo pipefail; \
+  cd $(pwd); \
+  source .venv/bin/activate; \
+  python -m oasis.eval_entry \
+    --run_id $(run_id) \
+    --model_root $(model_root) \
+    --data_root $(data_root) \
+    --df_path $(df_path) \
+    --species $(species)"
+
+log                   = condor_logs/eval_$(run_id).log
+output                = condor_logs/eval_$(run_id).out
+error                 = condor_logs/eval_$(run_id).err
+
+should_transfer_files = NO

@@ -1,0 +1,52 @@
+import os, json, argparse
+import pandas as pd
+from dataclasses import replace
+
+from .config import OASISConfig
+from .eval_metrics import eval_bias_variance_4to5keV
+
+def main():
+    p = argparse.ArgumentParser()
+    p.add_argument("--run_id", type=str, required=True)
+    p.add_argument("--model_root", type=str, required=True)
+    p.add_argument("--data_root", type=str, default=None)
+    p.add_argument("--df_path", type=str, required=True)  # path to test_df (parquet/csv/pkl/feather)
+    p.add_argument("--species", type=str, default="hybrid")
+    args = p.parse_args()
+
+    cfg = OASISConfig()
+    if args.data_root is not None:
+        cfg = replace(cfg, data_root=args.data_root)
+
+    run_dir = os.path.join(args.model_root, args.run_id)
+    model_path = os.path.join(run_dir, "best.pt")
+
+    if not os.path.exists(model_path):
+        raise FileNotFoundError(f"Missing model checkpoint: {model_path}")
+
+    # load df
+    if args.df_path.endswith(".parquet"):
+        test_df = pd.read_parquet(args.df_path)
+    elif args.df_path.endswith(".csv"):
+        test_df = pd.read_csv(args.df_path)
+    elif args.df_path.endswith(".pkl"):
+        test_df = pd.read_pickle(args.df_path)
+    elif args.df_path.endswith(".feather"):
+        test_df = pd.read_feather(args.df_path)
+    else:
+        raise ValueError("df_path must end with .parquet, .csv, .pkl, or .feather")
+
+    metrics = eval_bias_variance_4to5keV(
+        cfg=cfg,
+        test_df=test_df,
+        model_path=model_path,
+        species=args.species,
+    )
+
+    out_path = os.path.join(run_dir, "metrics.json")
+    with open(out_path, "w") as f:
+        json.dump(metrics, f, indent=2)
+    print(f"Wrote {out_path}")
+
+if __name__ == "__main__":
+    main()

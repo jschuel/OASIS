@@ -1,0 +1,26 @@
+# train.sub
+universe              = vanilla
+getenv                = True
+
+request_gpus          = 2
+request_cpus          = 8
+request_memory        = 24GB
+
+# Require A100 and >=2 GPUs on the machine
+requirements          = (TotalGPUs >= 2) && regexp("A100", GPUs_DeviceName)
+
+executable            = /bin/bash
+arguments             = -lc "set -euo pipefail; \
+  cd $(pwd); \
+  source .venv/bin/activate; \
+  torchrun --nproc_per_node=2 -m oasis.train_entry \
+    --rc $(rc) --rn $(rn) --ro $(ro) --run_id $(run_id) \
+    --data_root $(data_root) --model_root $(model_root) \
+    --seed $(seed) --epochs $(epochs) --patience $(patience) \
+    --batch_size $(batch_size) --lr $(lr)"
+
+log                   = condor_logs/train_$(run_id).log
+output                = condor_logs/train_$(run_id).out
+error                 = condor_logs/train_$(run_id).err
+
+should_transfer_files = NO
