@@ -2,9 +2,9 @@
 from pathlib import Path
 
 # ----------------- EDIT THESE -----------------
-DATA_ROOT  = "/mercury/data3/jschueler1/OASIS_tensors"
-MODEL_ROOT = "/mercury/data3/jschueler1/OASIS_models/oasis_ablation"
-DF_PATH    = "/mercury/data3/jschueler1/OASIS_data/test_hybrid.feather"   # parquet/csv/pkl accepted by eval_entry.py
+DATA_ROOT  = "/mercury/data3/jschueler1/OASIS_data/OASIS_tensors"
+MODEL_ROOT = "/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation"
+DF_PATH    = "/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather"   # parquet/csv/pkl/feather accepted by eval_entry.py
 SPECIES    = "hybrid"
 
 SEED       = 42

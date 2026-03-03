@@ -1,26 +1,27 @@
-# train.sub
-universe              = vanilla
-getenv                = True
+universe   = vanilla
+getenv     = True
 
-request_gpus          = 2
-request_cpus          = 8
-request_memory        = 24GB
+request_gpus   = 2
+request_cpus   = 8
+request_memory = 24GB
 
-# Require A100 and >=2 GPUs on the machine
-requirements          = (TotalGPUs >= 2) && regexp("A100", GPUs_DeviceName)
+# Require 2×A100
+requirements = (TotalGPUs >= 2) && ( regexp("A100", GPUs_DeviceName) || regexp("TITAN RTX", GPUs_DeviceName) )
+# IMPORTANT: run in your repo, not in /scratch
+initialdir = /mercury/data3/jschueler1/OASIS/OASIS
 
-executable            = /bin/bash
-arguments             = -lc "set -euo pipefail; \
-  cd $(pwd); \
-  source .venv/bin/activate; \
-  torchrun --nproc_per_node=2 -m oasis.train_entry \
-    --rc $(rc) --rn $(rn) --ro $(ro) --run_id $(run_id) \
-    --data_root $(data_root) --model_root $(model_root) \
-    --seed $(seed) --epochs $(epochs) --patience $(patience) \
-    --batch_size $(batch_size) --lr $(lr)"
+executable = $(initialdir)/run_train.sh
 
-log                   = condor_logs/train_$(run_id).log
-output                = condor_logs/train_$(run_id).out
-error                 = condor_logs/train_$(run_id).err
+environment = \
+  "TORCHRUN=/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin/torchrun \
+   RC=$(rc) RN=$(rn) RO=$(ro) RUN_ID=$(run_id) \
+   DATA_ROOT=$(data_root) MODEL_ROOT=$(model_root) \
+   SEED=$(seed) EPOCHS=$(epochs) PATIENCE=$(patience) \
+   BATCH_SIZE=$(batch_size) LR=$(lr)"
 
-should_transfer_files = NO
+log    = condor_logs/train_$(run_id).log
+output = condor_logs/train_$(run_id).out
+error  = condor_logs/train_$(run_id).err
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT

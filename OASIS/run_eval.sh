@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+#export PYTHONPATH="${PYTHONPATH:-}"
+
+echo "[INFO] host=$(hostname)"
+echo "[INFO] pwd=$(pwd)"
+echo "[INFO] python=$PYTHON"
+
+"$PYTHON" -m OASIS.eval_entry \
+  --run_id "$RUN_ID" \
+  --model_root "$MODEL_ROOT" \
+  --data_root "$DATA_ROOT" \
+  --df_path "$DF_PATH" \
+  --species "$SPECIES"

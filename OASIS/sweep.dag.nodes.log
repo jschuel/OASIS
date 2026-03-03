@@ -1,0 +1,1225 @@
+000 (2689734.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn0p5_ro1
+...
+000 (2689735.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn0p5_ro2
+...
+000 (2689736.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn0p5_ro4
+...
+000 (2689737.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn0p5_ro8
+...
+000 (2689738.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn1_ro1
+...
+000 (2689739.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn1_ro2
+...
+000 (2689740.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn1_ro4
+...
+000 (2689741.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn1_ro8
+...
+000 (2689742.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn2_ro1
+...
+000 (2689743.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn2_ro2
+...
+000 (2689744.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn2_ro4
+...
+000 (2689745.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc0p5_rn2_ro8
+...
+000 (2689746.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn0p5_ro1
+...
+000 (2689747.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn0p5_ro2
+...
+000 (2689748.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn0p5_ro4
+...
+000 (2689749.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn0p5_ro8
+...
+000 (2689750.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn1_ro1
+...
+000 (2689751.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn1_ro2
+...
+000 (2689752.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn1_ro4
+...
+000 (2689753.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn1_ro8
+...
+000 (2689754.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn2_ro1
+...
+000 (2689755.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn2_ro2
+...
+000 (2689756.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn2_ro4
+...
+000 (2689757.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn2_ro8
+...
+000 (2689758.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn0p5_ro1
+...
+000 (2689759.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn0p5_ro2
+...
+000 (2689760.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn0p5_ro4
+...
+000 (2689761.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn0p5_ro8
+...
+000 (2689762.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn1_ro1
+...
+000 (2689763.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn1_ro2
+...
+000 (2689764.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn1_ro4
+...
+000 (2689765.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn1_ro8
+...
+000 (2689766.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn2_ro1
+...
+000 (2689767.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn2_ro2
+...
+000 (2689768.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn2_ro4
+...
+000 (2689769.000.000) 2026-03-02 22:08:21 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc2_rn2_ro8
+...
+001 (2689738.000.000) 2026-03-02 22:08:41 Job executing on host: <130.246.44.54:9618?addrs=130.246.44.54-9618+[2001-630-58-1c20--82f6-2c36]-9618&alias=hepacc04.pp.rl.ac.uk&noUDP&sock=startd_13622_232f>
+	SlotName: slot1_1@hepacc04.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_c44dcf35,GPUs_GPU_ad6687de }
+	CondorScratchDir = "/scratch/condor/dir_1748823"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_ad6687de = [ Id = "GPU-ad6687de"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "ad6687de-541e-6b63-12e0-8c9658221bb9"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_c44dcf35 = [ Id = "GPU-c44dcf35"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "c44dcf35-503f-ef70-3ef8-35a5e98687b6"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689736.000.000) 2026-03-02 22:08:41 Job executing on host: <130.246.44.55:9618?addrs=130.246.44.55-9618+[2001-630-58-1c20--82f6-2c37]-9618&alias=hepacc05.pp.rl.ac.uk&noUDP&sock=startd_13596_4db9>
+	SlotName: slot1_1@hepacc05.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_bad1e358,GPUs_GPU_7474d697 }
+	CondorScratchDir = "/scratch/condor/dir_1805537"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_7474d697 = [ Id = "GPU-7474d697"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "7474d697-4330-707c-3ca7-b2df6fb029d2"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_bad1e358 = [ Id = "GPU-bad1e358"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "bad1e358-4625-6569-e002-04e7a6d60318"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689737.000.000) 2026-03-02 22:08:41 Job executing on host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=startd_13623_d2c7>
+	SlotName: slot1_1@hepacc06.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_8d098f6e,GPUs_GPU_8b768c86 }
+	CondorScratchDir = "/scratch/condor/dir_1811674"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_8b768c86 = [ Id = "GPU-8b768c86"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8b768c86-be1f-bd2a-86ed-b2c820012829"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_8d098f6e = [ Id = "GPU-8d098f6e"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8d098f6e-11c9-d9f5-61d1-6bd7a877b39b"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689734.000.000) 2026-03-02 22:08:42 Job executing on host: <130.246.44.65:9618?addrs=130.246.44.65-9618+[2001-630-58-1c20--82f6-2c41]-9618&alias=hepacc15.pp.rl.ac.uk&noUDP&sock=startd_14906_daca>
+	SlotName: slot1_1@hepacc15.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_d9b658a2,GPUs_GPU_fe2235b8 }
+	CondorScratchDir = "/scratch/condor/dir_1949480"
+	Cpus = 8
+	Disk = 5046
+	GPUs = 2
+	GPUs_GPU_d9b658a2 = [ Id = "GPU-d9b658a2"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "d9b658a2-c95a-d526-02a8-5a7d074d5a8b"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_fe2235b8 = [ Id = "GPU-fe2235b8"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "fe2235b8-8efe-c420-b75b-f57270500d4a"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689735.000.000) 2026-03-02 22:08:42 Job executing on host: <130.246.44.64:9618?addrs=130.246.44.64-9618+[2001-630-58-1c20--82f6-2c40]-9618&alias=hepacc14.pp.rl.ac.uk&noUDP&sock=startd_14985_0ac5>
+	SlotName: slot1_1@hepacc14.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_b429ae6b,GPUs_GPU_047945ff }
+	CondorScratchDir = "/scratch/condor/dir_465774"
+	Cpus = 8
+	Disk = 4883
+	GPUs = 2
+	GPUs_GPU_047945ff = [ Id = "GPU-047945ff"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "047945ff-a2f2-347b-aafb-81bcb29e0f43"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_b429ae6b = [ Id = "GPU-b429ae6b"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "b429ae6b-4e6f-8a3a-59ed-b8ebf457326c"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689735.000.000) 2026-03-03 02:20:10 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 06:31:50, Sys 0 03:05:51  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 06:31:50, Sys 0 03:05:51  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	21211  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	21211  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.45        8         8 
+	   Disk (KB)            :    46           1      4883 
+	   GPUs                 :     1.50        2         2 "GPU-b429ae6b,GPU-047945ff"
+	   GpusMemory (MB)      :  9643                       
+	   Memory (MB)          :  5225       24576     24600 
+	   TimeExecute (s)      : 15088                       
+	   TimeSlotBusy (s)     : 15089                       
+...
+001 (2689739.000.000) 2026-03-03 02:20:14 Job executing on host: <130.246.44.64:9618?addrs=130.246.44.64-9618+[2001-630-58-1c20--82f6-2c40]-9618&alias=hepacc14.pp.rl.ac.uk&noUDP&sock=startd_14985_0ac5>
+	SlotName: slot1_1@hepacc14.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_b429ae6b,GPUs_GPU_047945ff }
+	CondorScratchDir = "/scratch/condor/dir_1077037"
+	Cpus = 8
+	Disk = 4883
+	GPUs = 2
+	GPUs_GPU_047945ff = [ Id = "GPU-047945ff"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "047945ff-a2f2-347b-aafb-81bcb29e0f43"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_b429ae6b = [ Id = "GPU-b429ae6b"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "b429ae6b-4e6f-8a3a-59ed-b8ebf457326c"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+000 (2689770.000.000) 2026-03-03 02:20:19 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn0p5_ro2
+...
+001 (2689770.000.000) 2026-03-03 02:20:35 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1129886"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+005 (2689770.000.000) 2026-03-03 02:20:45 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      239     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       11                    
+...
+005 (2689736.000.000) 2026-03-03 03:09:52 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 08:59:41, Sys 0 03:29:45  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 08:59:41, Sys 0 03:29:45  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23174  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23174  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.96        8         8 
+	   Disk (KB)            :    48           1      2762 
+	   GPUs                 :     1.50        2         2 "GPU-bad1e358,GPU-7474d697"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  5029       24576     24600 
+	   TimeExecute (s)      : 18070                       
+	   TimeSlotBusy (s)     : 18072                       
+...
+000 (2689771.000.000) 2026-03-03 03:10:01 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn0p5_ro4
+...
+001 (2689771.000.000) 2026-03-03 03:10:03 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1144977"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689740.000.000) 2026-03-03 03:10:04 Job executing on host: <130.246.44.55:9618?addrs=130.246.44.55-9618+[2001-630-58-1c20--82f6-2c37]-9618&alias=hepacc05.pp.rl.ac.uk&noUDP&sock=startd_13596_4db9>
+	SlotName: slot1_1@hepacc05.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_bad1e358,GPUs_GPU_7474d697 }
+	CondorScratchDir = "/scratch/condor/dir_1935997"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_7474d697 = [ Id = "GPU-7474d697"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "7474d697-4330-707c-3ca7-b2df6fb029d2"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_bad1e358 = [ Id = "GPU-bad1e358"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "bad1e358-4625-6569-e002-04e7a6d60318"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689771.000.000) 2026-03-03 03:10:12 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689737.000.000) 2026-03-03 03:16:03 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 09:28:07, Sys 0 03:27:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 09:28:07, Sys 0 03:27:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	22907  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	22907  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     3.07        8         8 
+	   Disk (KB)            :    47           1      2762 
+	   GPUs                 :     1.57        2         2 "GPU-8d098f6e,GPU-8b768c86"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  5046       24576     24600 
+	   TimeExecute (s)      : 18442                       
+	   TimeSlotBusy (s)     : 18443                       
+...
+000 (2689772.000.000) 2026-03-03 03:16:13 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn0p5_ro8
+...
+001 (2689772.000.000) 2026-03-03 03:16:15 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1145652"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689741.000.000) 2026-03-03 03:16:15 Job executing on host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=startd_13623_d2c7>
+	SlotName: slot1_1@hepacc06.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_8d098f6e,GPUs_GPU_8b768c86 }
+	CondorScratchDir = "/scratch/condor/dir_1942109"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_8b768c86 = [ Id = "GPU-8b768c86"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8b768c86-be1f-bd2a-86ed-b2c820012829"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_8d098f6e = [ Id = "GPU-8d098f6e"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8d098f6e-11c9-d9f5-61d1-6bd7a877b39b"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689772.000.000) 2026-03-03 03:16:24 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      245     8192      8200 
+	   TimeExecute (s)      :        8                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689734.000.000) 2026-03-03 03:57:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 07:42:24, Sys 0 03:56:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 07:42:24, Sys 0 03:56:03  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	22729  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	22729  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.23        8         8 
+	   Disk (KB)            :    47           1      5046 
+	   GPUs                 :     1.03        2         2 "GPU-d9b658a2,GPU-fe2235b8"
+	   GpusMemory (MB)      :  9643                       
+	   Memory (MB)          :  5385       24576     24600 
+	   TimeExecute (s)      : 20918                       
+	   TimeSlotBusy (s)     : 20919                       
+...
+000 (2689773.000.000) 2026-03-03 03:57:28 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn0p5_ro1
+...
+001 (2689773.000.000) 2026-03-03 03:57:30 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1158626"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689742.000.000) 2026-03-03 03:57:31 Job executing on host: <130.246.44.65:9618?addrs=130.246.44.65-9618+[2001-630-58-1c20--82f6-2c41]-9618&alias=hepacc15.pp.rl.ac.uk&noUDP&sock=startd_14906_daca>
+	SlotName: slot1_1@hepacc15.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_d9b658a2,GPUs_GPU_fe2235b8 }
+	CondorScratchDir = "/scratch/condor/dir_2093127"
+	Cpus = 8
+	Disk = 5046
+	GPUs = 2
+	GPUs_GPU_d9b658a2 = [ Id = "GPU-d9b658a2"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "d9b658a2-c95a-d526-02a8-5a7d074d5a8b"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_fe2235b8 = [ Id = "GPU-fe2235b8"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "fe2235b8-8efe-c420-b75b-f57270500d4a"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689773.000.000) 2026-03-03 03:57:39 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      241     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689738.000.000) 2026-03-03 04:03:03 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 09:44:18, Sys 0 03:33:46  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 09:44:18, Sys 0 03:33:46  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23043  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23043  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     0.74        8         8 
+	   Disk (KB)            :    47           1      2762 
+	   GPUs                 :     1.39        2         2 "GPU-c44dcf35,GPU-ad6687de"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  5047       24576     24600 
+	   TimeExecute (s)      : 21262                       
+	   TimeSlotBusy (s)     : 21263                       
+...
+000 (2689774.000.000) 2026-03-03 04:03:10 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn1_ro1
+...
+001 (2689774.000.000) 2026-03-03 04:03:11 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1160284"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689743.000.000) 2026-03-03 04:03:11 Job executing on host: <130.246.44.54:9618?addrs=130.246.44.54-9618+[2001-630-58-1c20--82f6-2c36]-9618&alias=hepacc04.pp.rl.ac.uk&noUDP&sock=startd_13622_232f>
+	SlotName: slot1_1@hepacc04.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_c44dcf35,GPUs_GPU_ad6687de }
+	CondorScratchDir = "/scratch/condor/dir_1887869"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_ad6687de = [ Id = "GPU-ad6687de"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "ad6687de-541e-6b63-12e0-8c9658221bb9"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_c44dcf35 = [ Id = "GPU-c44dcf35"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "c44dcf35-503f-ef70-3ef8-35a5e98687b6"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689774.000.000) 2026-03-03 04:03:20 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689740.000.000) 2026-03-03 07:20:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 07:22:33, Sys 0 02:45:36  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 07:22:33, Sys 0 02:45:36  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	21027  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	21027  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.81        8         8 
+	   Disk (KB)            :    46           1      2762 
+	   GPUs                 :     1.47        2         2 "GPU-bad1e358,GPU-7474d697"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  4977       24576     24600 
+	   TimeExecute (s)      : 15027                       
+	   TimeSlotBusy (s)     : 15028                       
+...
+000 (2689775.000.000) 2026-03-03 07:20:39 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn1_ro4
+...
+001 (2689775.000.000) 2026-03-03 07:20:41 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1217362"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689744.000.000) 2026-03-03 07:20:41 Job executing on host: <130.246.44.55:9618?addrs=130.246.44.55-9618+[2001-630-58-1c20--82f6-2c37]-9618&alias=hepacc05.pp.rl.ac.uk&noUDP&sock=startd_13596_4db9>
+	SlotName: slot1_1@hepacc05.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_bad1e358,GPUs_GPU_7474d697 }
+	CondorScratchDir = "/scratch/condor/dir_1993914"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_7474d697 = [ Id = "GPU-7474d697"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "7474d697-4330-707c-3ca7-b2df6fb029d2"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_bad1e358 = [ Id = "GPU-bad1e358"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "bad1e358-4625-6569-e002-04e7a6d60318"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689775.000.000) 2026-03-03 07:20:51 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      247     8192      8200 
+	   TimeExecute (s)      :       10                    
+	   TimeSlotBusy (s)     :       11                    
+...
+005 (2689739.000.000) 2026-03-03 07:21:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 07:52:26, Sys 0 03:44:31  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 07:52:26, Sys 0 03:44:31  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23391  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23391  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     0.66        8         8 
+	   Disk (KB)            :    48           1      4883 
+	   GPUs                 :     1.53        2         2 "GPU-b429ae6b,GPU-047945ff"
+	   GpusMemory (MB)      :  9643                       
+	   Memory (MB)          :  5269       24576     24600 
+	   TimeExecute (s)      : 18074                       
+	   TimeSlotBusy (s)     : 18075                       
+...
+000 (2689776.000.000) 2026-03-03 07:21:34 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn1_ro2
+...
+001 (2689776.000.000) 2026-03-03 07:21:49 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1217458"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689745.000.000) 2026-03-03 07:21:50 Job executing on host: <130.246.44.64:9618?addrs=130.246.44.64-9618+[2001-630-58-1c20--82f6-2c40]-9618&alias=hepacc14.pp.rl.ac.uk&noUDP&sock=startd_14985_0ac5>
+	SlotName: slot1_1@hepacc14.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_b429ae6b,GPUs_GPU_047945ff }
+	CondorScratchDir = "/scratch/condor/dir_1858658"
+	Cpus = 8
+	Disk = 4883
+	GPUs = 2
+	GPUs_GPU_047945ff = [ Id = "GPU-047945ff"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "047945ff-a2f2-347b-aafb-81bcb29e0f43"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_b429ae6b = [ Id = "GPU-b429ae6b"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "b429ae6b-4e6f-8a3a-59ed-b8ebf457326c"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689776.000.000) 2026-03-03 07:21:55 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        5                    
+	   TimeSlotBusy (s)     :        6                    
+...
+005 (2689742.000.000) 2026-03-03 07:31:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 04:34:58, Sys 0 02:20:16  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 04:34:58, Sys 0 02:20:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	19254  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	19254  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.28        8         8 
+	   Disk (KB)            :    44           1      5046 
+	   GPUs                 :     1.01        2         2 "GPU-d9b658a2,GPU-fe2235b8"
+	   GpusMemory (MB)      :  9643                       
+	   Memory (MB)          :  4980       24576     24600 
+	   TimeExecute (s)      : 12857                       
+	   TimeSlotBusy (s)     : 12858                       
+...
+000 (2689777.000.000) 2026-03-03 07:31:57 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn2_ro1
+...
+001 (2689777.000.000) 2026-03-03 07:31:59 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1220268"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689746.000.000) 2026-03-03 07:31:59 Job executing on host: <130.246.44.65:9618?addrs=130.246.44.65-9618+[2001-630-58-1c20--82f6-2c41]-9618&alias=hepacc15.pp.rl.ac.uk&noUDP&sock=startd_14906_daca>
+	SlotName: slot1_1@hepacc15.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_d9b658a2,GPUs_GPU_fe2235b8 }
+	CondorScratchDir = "/scratch/condor/dir_2148752"
+	Cpus = 8
+	Disk = 5046
+	GPUs = 2
+	GPUs_GPU_d9b658a2 = [ Id = "GPU-d9b658a2"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "d9b658a2-c95a-d526-02a8-5a7d074d5a8b"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_fe2235b8 = [ Id = "GPU-fe2235b8"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "fe2235b8-8efe-c420-b75b-f57270500d4a"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689777.000.000) 2026-03-03 07:32:08 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      244     8192      8200 
+	   TimeExecute (s)      :        8                    
+	   TimeSlotBusy (s)     :        9                    
+...
+005 (2689741.000.000) 2026-03-03 08:22:55 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 09:27:25, Sys 0 03:31:30  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 09:27:25, Sys 0 03:31:30  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23043  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23043  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.78        8         8 
+	   Disk (KB)            :    48           1      2762 
+	   GPUs                 :     1.56        2         2 "GPU-8d098f6e,GPU-8b768c86"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  4990       24576     24600 
+	   TimeExecute (s)      : 18400                       
+	   TimeSlotBusy (s)     : 18402                       
+...
+000 (2689778.000.000) 2026-03-03 08:23:05 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn1_ro8
+...
+001 (2689747.000.000) 2026-03-03 08:23:05 Job executing on host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=startd_13623_d2c7>
+	SlotName: slot1_1@hepacc06.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_8d098f6e,GPUs_GPU_8b768c86 }
+	CondorScratchDir = "/scratch/condor/dir_2012264"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_8b768c86 = [ Id = "GPU-8b768c86"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8b768c86-be1f-bd2a-86ed-b2c820012829"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_8d098f6e = [ Id = "GPU-8d098f6e"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8d098f6e-11c9-d9f5-61d1-6bd7a877b39b"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689778.000.000) 2026-03-03 08:23:26 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1234918"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+005 (2689778.000.000) 2026-03-03 08:23:34 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      246     8192      8200 
+	   TimeExecute (s)      :        8                    
+	   TimeSlotBusy (s)     :        9                    
+...
+005 (2689743.000.000) 2026-03-03 10:41:34 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 10:16:31, Sys 0 03:38:26  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 10:16:31, Sys 0 03:38:26  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	22956  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	22956  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.19        8         8 
+	   Disk (KB)            :    47           1      2762 
+	   GPUs                 :     1.31        2         2 "GPU-c44dcf35,GPU-ad6687de"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  5111       24576     24600 
+	   TimeExecute (s)      : 23903                       
+	   TimeSlotBusy (s)     : 23904                       
+...
+000 (2689779.000.000) 2026-03-03 10:41:41 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn2_ro2
+...
+001 (2689748.000.000) 2026-03-03 10:41:43 Job executing on host: <130.246.44.54:9618?addrs=130.246.44.54-9618+[2001-630-58-1c20--82f6-2c36]-9618&alias=hepacc04.pp.rl.ac.uk&noUDP&sock=startd_13622_232f>
+	SlotName: slot1_1@hepacc04.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_c44dcf35,GPUs_GPU_ad6687de }
+	CondorScratchDir = "/scratch/condor/dir_1975412"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_ad6687de = [ Id = "GPU-ad6687de"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "ad6687de-541e-6b63-12e0-8c9658221bb9"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_c44dcf35 = [ Id = "GPU-c44dcf35"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "c44dcf35-503f-ef70-3ef8-35a5e98687b6"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689779.000.000) 2026-03-03 10:41:43 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1274645"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+005 (2689779.000.000) 2026-03-03 10:41:52 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689744.000.000) 2026-03-03 12:12:29 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 08:33:08, Sys 0 03:19:18  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 08:33:08, Sys 0 03:19:18  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	22721  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	22721  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.84        8         8 
+	   Disk (KB)            :    47           1      2762 
+	   GPUs                 :     1.47        2         2 "GPU-bad1e358,GPU-7474d697"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  5056       24576     24600 
+	   TimeExecute (s)      : 17508                       
+	   TimeSlotBusy (s)     : 17509                       
+...
+000 (2689780.000.000) 2026-03-03 12:12:39 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn2_ro4
+...
+001 (2689749.000.000) 2026-03-03 12:12:41 Job executing on host: <130.246.44.55:9618?addrs=130.246.44.55-9618+[2001-630-58-1c20--82f6-2c37]-9618&alias=hepacc05.pp.rl.ac.uk&noUDP&sock=startd_13596_4db9>
+	SlotName: slot1_1@hepacc05.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_bad1e358,GPUs_GPU_7474d697 }
+	CondorScratchDir = "/scratch/condor/dir_2060006"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_7474d697 = [ Id = "GPU-7474d697"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "7474d697-4330-707c-3ca7-b2df6fb029d2"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_bad1e358 = [ Id = "GPU-bad1e358"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "bad1e358-4625-6569-e002-04e7a6d60318"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689780.000.000) 2026-03-03 12:12:41 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1300707"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+005 (2689780.000.000) 2026-03-03 12:12:49 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 2         2 
+	   Disk (KB)            :       15        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      243     8192      8200 
+	   TimeExecute (s)      :        8                    
+	   TimeSlotBusy (s)     :        9                    
+...
+005 (2689745.000.000) 2026-03-03 12:22:18 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 07:50:39, Sys 0 03:45:40  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 07:50:39, Sys 0 03:45:40  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23273  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23273  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     2.77        8         8 
+	   Disk (KB)            :    48           1      4883 
+	   GPUs                 :     1.54        2         2 "GPU-b429ae6b,GPU-047945ff"
+	   GpusMemory (MB)      :  9643                       
+	   Memory (MB)          :  5160       24576     24600 
+	   TimeExecute (s)      : 18027                       
+	   TimeSlotBusy (s)     : 18029                       
+...
+000 (2689781.000.000) 2026-03-03 12:22:27 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc0p5_rn2_ro8
+...
+001 (2689781.000.000) 2026-03-03 12:22:39 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1303778"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689750.000.000) 2026-03-03 12:22:39 Job executing on host: <130.246.44.64:9618?addrs=130.246.44.64-9618+[2001-630-58-1c20--82f6-2c40]-9618&alias=hepacc14.pp.rl.ac.uk&noUDP&sock=startd_14985_0ac5>
+	SlotName: slot1_1@hepacc14.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_b429ae6b,GPUs_GPU_047945ff }
+	CondorScratchDir = "/scratch/condor/dir_2592155"
+	Cpus = 8
+	Disk = 4883
+	GPUs = 2
+	GPUs_GPU_047945ff = [ Id = "GPU-047945ff"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "047945ff-a2f2-347b-aafb-81bcb29e0f43"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_b429ae6b = [ Id = "GPU-b429ae6b"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "b429ae6b-4e6f-8a3a-59ed-b8ebf457326c"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689781.000.000) 2026-03-03 12:22:47 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      244     8192      8200 
+	   TimeExecute (s)      :        8                    
+	   TimeSlotBusy (s)     :        9                    
+...
+005 (2689747.000.000) 2026-03-03 13:34:50 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 09:28:45, Sys 0 03:32:16  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 09:28:45, Sys 0 03:32:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23043  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23043  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     3.18        8         8 
+	   Disk (KB)            :    48           1      2762 
+	   GPUs                 :     1.54        2         2 "GPU-8d098f6e,GPU-8b768c86"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  4982       24576     24600 
+	   TimeExecute (s)      : 18705                       
+	   TimeSlotBusy (s)     : 18706                       
+...
+000 (2689782.000.000) 2026-03-03 13:34:58 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc1_rn0p5_ro2
+...
+001 (2689782.000.000) 2026-03-03 13:35:02 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1323697"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689751.000.000) 2026-03-03 13:35:02 Job executing on host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=startd_13623_d2c7>
+	SlotName: slot1_1@hepacc06.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_8d098f6e,GPUs_GPU_8b768c86 }
+	CondorScratchDir = "/scratch/condor/dir_2084444"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_8b768c86 = [ Id = "GPU-8b768c86"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8b768c86-be1f-bd2a-86ed-b2c820012829"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_8d098f6e = [ Id = "GPU-8d098f6e"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8d098f6e-11c9-d9f5-61d1-6bd7a877b39b"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689782.000.000) 2026-03-03 13:35:12 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      246     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689746.000.000) 2026-03-03 13:43:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 07:56:05, Sys 0 04:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 07:56:05, Sys 0 04:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23217  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23217  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     1.86        8         8 
+	   Disk (KB)            :    48           1      5046 
+	   GPUs                 :     1.01        2         2 "GPU-d9b658a2,GPU-fe2235b8"
+	   GpusMemory (MB)      :  9649                       
+	   Memory (MB)          :  5399       24576     24600 
+	   TimeExecute (s)      : 22292                       
+	   TimeSlotBusy (s)     : 22293                       
+...
+000 (2689783.000.000) 2026-03-03 13:43:40 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc1_rn0p5_ro1
+...
+001 (2689783.000.000) 2026-03-03 13:43:51 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1329871"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689752.000.000) 2026-03-03 13:43:53 Job executing on host: <130.246.44.65:9618?addrs=130.246.44.65-9618+[2001-630-58-1c20--82f6-2c41]-9618&alias=hepacc15.pp.rl.ac.uk&noUDP&sock=startd_14906_daca>
+	SlotName: slot1_1@hepacc15.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_d9b658a2,GPUs_GPU_fe2235b8 }
+	CondorScratchDir = "/scratch/condor/dir_2243633"
+	Cpus = 8
+	Disk = 5046
+	GPUs = 2
+	GPUs_GPU_d9b658a2 = [ Id = "GPU-d9b658a2"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "d9b658a2-c95a-d526-02a8-5a7d074d5a8b"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_fe2235b8 = [ Id = "GPU-fe2235b8"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "fe2235b8-8efe-c420-b75b-f57270500d4a"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689783.000.000) 2026-03-03 13:44:00 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689751.000.000) 2026-03-03 16:41:21 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 05:35:18, Sys 0 02:04:39  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 05:35:18, Sys 0 02:04:39  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	19122  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	19122  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     0.57        8         8 
+	   Disk (KB)            :    44           1      2762 
+	   GPUs                 :     1.52        2         2 "GPU-8d098f6e,GPU-8b768c86"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  4810       24576     24600 
+	   TimeExecute (s)      : 11179                       
+	   TimeSlotBusy (s)     : 11180                       
+...
+000 (2689784.000.000) 2026-03-03 16:41:28 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc1_rn1_ro2
+...
+001 (2689753.000.000) 2026-03-03 16:41:40 Job executing on host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=startd_13623_d2c7>
+	SlotName: slot1_1@hepacc06.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_8d098f6e,GPUs_GPU_8b768c86 }
+	CondorScratchDir = "/scratch/condor/dir_2127408"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_8b768c86 = [ Id = "GPU-8b768c86"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8b768c86-be1f-bd2a-86ed-b2c820012829"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_8d098f6e = [ Id = "GPU-8d098f6e"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8d098f6e-11c9-d9f5-61d1-6bd7a877b39b"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689784.000.000) 2026-03-03 16:41:40 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1409108"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+005 (2689784.000.000) 2026-03-03 16:41:50 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      237     8192      8200 
+	   TimeExecute (s)      :       10                    
+	   TimeSlotBusy (s)     :       11                    
+...
+005 (2689748.000.000) 2026-03-03 17:36:14 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 10:26:39, Sys 0 03:39:39  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 10:26:39, Sys 0 03:39:39  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23130  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23130  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     1.88        8         8 
+	   Disk (KB)            :    48           1      2762 
+	   GPUs                 :     1.30        2         2 "GPU-c44dcf35,GPU-ad6687de"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  5064       24576     24600 
+	   TimeExecute (s)      : 24871                       
+	   TimeSlotBusy (s)     : 24872                       
+...
+000 (2689785.000.000) 2026-03-03 17:36:24 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc1_rn0p5_ro4
+...
+001 (2689785.000.000) 2026-03-03 17:36:26 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1433883"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689754.000.000) 2026-03-03 17:36:26 Job executing on host: <130.246.44.54:9618?addrs=130.246.44.54-9618+[2001-630-58-1c20--82f6-2c36]-9618&alias=hepacc04.pp.rl.ac.uk&noUDP&sock=startd_13622_232f>
+	SlotName: slot1_1@hepacc04.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_c44dcf35,GPUs_GPU_ad6687de }
+	CondorScratchDir = "/scratch/condor/dir_2065681"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_ad6687de = [ Id = "GPU-ad6687de"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "ad6687de-541e-6b63-12e0-8c9658221bb9"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_c44dcf35 = [ Id = "GPU-c44dcf35"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "c44dcf35-503f-ef70-3ef8-35a5e98687b6"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689785.000.000) 2026-03-03 17:36:36 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 2         2 
+	   Disk (KB)            :       15        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      239     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689749.000.000) 2026-03-03 17:50:02 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 09:25:34, Sys 0 03:34:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 09:25:34, Sys 0 03:34:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23217  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23217  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     1.54        8         8 
+	   Disk (KB)            :    48           1      2762 
+	   GPUs                 :     1.42        2         2 "GPU-bad1e358,GPU-7474d697"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  5111       24576     24600 
+	   TimeExecute (s)      : 20240                       
+	   TimeSlotBusy (s)     : 20243                       
+...
+000 (2689789.000.000) 2026-03-03 17:50:08 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc1_rn0p5_ro8
+...
+001 (2689755.000.000) 2026-03-03 17:50:09 Job executing on host: <130.246.44.55:9618?addrs=130.246.44.55-9618+[2001-630-58-1c20--82f6-2c37]-9618&alias=hepacc05.pp.rl.ac.uk&noUDP&sock=startd_13596_4db9>
+	SlotName: slot1_1@hepacc05.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_bad1e358,GPUs_GPU_7474d697 }
+	CondorScratchDir = "/scratch/condor/dir_2137060"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_7474d697 = [ Id = "GPU-7474d697"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "7474d697-4330-707c-3ca7-b2df6fb029d2"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_bad1e358 = [ Id = "GPU-bad1e358"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "bad1e358-4625-6569-e002-04e7a6d60318"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+001 (2689789.000.000) 2026-03-03 17:50:30 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1480340"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+005 (2689789.000.000) 2026-03-03 17:50:39 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 2         2 
+	   Disk (KB)            :       15        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      247     8192      8200 
+	   TimeExecute (s)      :        8                    
+	   TimeSlotBusy (s)     :       10                    
+...
+005 (2689750.000.000) 2026-03-03 18:45:52 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 08:40:26, Sys 0 03:54:19  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 08:40:26, Sys 0 03:54:19  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23171  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	23171  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     1.94        8         8 
+	   Disk (KB)            :    48           1      4883 
+	   GPUs                 :     1.40        2         2 "GPU-b429ae6b,GPU-047945ff"
+	   GpusMemory (MB)      : 76162                       
+	   Memory (MB)          :  5420       24576     24600 
+	   TimeExecute (s)      : 22992                       
+	   TimeSlotBusy (s)     : 22993                       
+...
+000 (2689795.000.000) 2026-03-03 18:45:59 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc1_rn1_ro1
+...
+001 (2689795.000.000) 2026-03-03 18:46:01 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1555587"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+001 (2689756.000.000) 2026-03-03 18:46:02 Job executing on host: <130.246.44.64:9618?addrs=130.246.44.64-9618+[2001-630-58-1c20--82f6-2c40]-9618&alias=hepacc14.pp.rl.ac.uk&noUDP&sock=startd_14985_0ac5>
+	SlotName: slot1_1@hepacc14.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_b429ae6b,GPUs_GPU_047945ff }
+	CondorScratchDir = "/scratch/condor/dir_3690628"
+	Cpus = 8
+	Disk = 4883
+	GPUs = 2
+	GPUs_GPU_047945ff = [ Id = "GPU-047945ff"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "047945ff-a2f2-347b-aafb-81bcb29e0f43"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:D8:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_b429ae6b = [ Id = "GPU-b429ae6b"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "b429ae6b-4e6f-8a3a-59ed-b8ebf457326c"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+005 (2689795.000.000) 2026-03-03 18:46:12 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      230     8192      8200 
+	   TimeExecute (s)      :       12                    
+	   TimeSlotBusy (s)     :       13                    
+...

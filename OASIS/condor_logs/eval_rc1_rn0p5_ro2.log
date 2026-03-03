@@ -1,0 +1,42 @@
+000 (2689782.000.000) 2026-03-03 13:34:58 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc1_rn0p5_ro2
+...
+040 (2689782.000.000) 2026-03-03 13:35:01 Started transferring input files
+	Transferring to host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=slot1_1_16435_b1b5_2118>
+...
+040 (2689782.000.000) 2026-03-03 13:35:01 Finished transferring input files
+...
+001 (2689782.000.000) 2026-03-03 13:35:02 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1323697"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+006 (2689782.000.000) 2026-03-03 13:35:11 Image size of job updated: 251304
+	246  -  MemoryUsage of job (MB)
+	251304  -  ResidentSetSize of job (KB)
+...
+040 (2689782.000.000) 2026-03-03 13:35:11 Started transferring output files
+...
+040 (2689782.000.000) 2026-03-03 13:35:11 Finished transferring output files
+...
+005 (2689782.000.000) 2026-03-03 13:35:12 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      246     8192      8200 
+	   TimeExecute (s)      :        9                    
+	   TimeSlotBusy (s)     :       10                    
+...

@@ -1,0 +1,168 @@
+000 (2689714.000.000) 2026-03-02 22:04:22 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn1_ro2
+...
+009 (2689714.000.000) 2026-03-02 22:06:24 Job was aborted.
+	via condor_rm (by user jschueler1)
+...
+000 (2689751.000.000) 2026-03-02 22:08:20 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_train_rc1_rn1_ro2
+...
+040 (2689751.000.000) 2026-03-03 13:35:01 Started transferring input files
+	Transferring to host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=slot1_1_13801_cd8a_896>
+...
+040 (2689751.000.000) 2026-03-03 13:35:01 Finished transferring input files
+...
+001 (2689751.000.000) 2026-03-03 13:35:02 Job executing on host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=startd_13623_d2c7>
+	SlotName: slot1_1@hepacc06.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_8d098f6e,GPUs_GPU_8b768c86 }
+	CondorScratchDir = "/scratch/condor/dir_2084444"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 2
+	GPUs_GPU_8b768c86 = [ Id = "GPU-8b768c86"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8b768c86-be1f-bd2a-86ed-b2c820012829"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:AF:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	GPUs_GPU_8d098f6e = [ Id = "GPU-8d098f6e"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8d098f6e-11c9-d9f5-61d1-6bd7a877b39b"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+006 (2689751.000.000) 2026-03-03 13:35:11 Image size of job updated: 1502616
+	1468  -  MemoryUsage of job (MB)
+	1502616  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 13:40:12 Image size of job updated: 3990620
+	3898  -  MemoryUsage of job (MB)
+	3990620  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 13:45:13 Image size of job updated: 4083916
+	3928  -  MemoryUsage of job (MB)
+	4021460  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 13:50:13 Image size of job updated: 4096292
+	3947  -  MemoryUsage of job (MB)
+	4041480  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 13:55:14 Image size of job updated: 4104160
+	3954  -  MemoryUsage of job (MB)
+	4048068  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 14:05:14 Image size of job updated: 4118484
+	3979  -  MemoryUsage of job (MB)
+	4074400  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 14:15:15 Image size of job updated: 4219576
+	4121  -  MemoryUsage of job (MB)
+	4219576  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 14:20:16 Image size of job updated: 4449876
+	4288  -  MemoryUsage of job (MB)
+	4390120  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 14:25:17 Image size of job updated: 4449876
+	4311  -  MemoryUsage of job (MB)
+	4413540  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 14:35:18 Image size of job updated: 4498076
+	4311  -  MemoryUsage of job (MB)
+	4413540  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 14:40:18 Image size of job updated: 4498076
+	4330  -  MemoryUsage of job (MB)
+	4433272  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 14:45:19 Image size of job updated: 4498076
+	4331  -  MemoryUsage of job (MB)
+	4434588  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:00:21 Image size of job updated: 4498076
+	4334  -  MemoryUsage of job (MB)
+	4437744  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:05:21 Image size of job updated: 4578684
+	4436  -  MemoryUsage of job (MB)
+	4542340  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:10:21 Image size of job updated: 4638896
+	4446  -  MemoryUsage of job (MB)
+	4552572  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:15:22 Image size of job updated: 4691828
+	4576  -  MemoryUsage of job (MB)
+	4685528  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:25:22 Image size of job updated: 4692476
+	4576  -  MemoryUsage of job (MB)
+	4685528  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:30:23 Image size of job updated: 4732740
+	4576  -  MemoryUsage of job (MB)
+	4685528  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:35:23 Image size of job updated: 4765376
+	4581  -  MemoryUsage of job (MB)
+	4690024  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:40:24 Image size of job updated: 4779684
+	4623  -  MemoryUsage of job (MB)
+	4733328  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:45:25 Image size of job updated: 4790248
+	4629  -  MemoryUsage of job (MB)
+	4739088  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:50:25 Image size of job updated: 4813604
+	4678  -  MemoryUsage of job (MB)
+	4789888  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 15:55:26 Image size of job updated: 4837176
+	4703  -  MemoryUsage of job (MB)
+	4815128  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 16:00:26 Image size of job updated: 4871580
+	4724  -  MemoryUsage of job (MB)
+	4836912  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 16:10:27 Image size of job updated: 4874340
+	4724  -  MemoryUsage of job (MB)
+	4836912  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 16:25:29 Image size of job updated: 4907840
+	4726  -  MemoryUsage of job (MB)
+	4839168  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 16:30:29 Image size of job updated: 4907840
+	4732  -  MemoryUsage of job (MB)
+	4845548  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 16:35:30 Image size of job updated: 4907840
+	4765  -  MemoryUsage of job (MB)
+	4879144  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 16:40:30 Image size of job updated: 4930456
+	4810  -  MemoryUsage of job (MB)
+	4924904  -  ResidentSetSize of job (KB)
+...
+006 (2689751.000.000) 2026-03-03 16:41:21 Image size of job updated: 4972272
+	4810  -  MemoryUsage of job (MB)
+	4924904  -  ResidentSetSize of job (KB)
+...
+040 (2689751.000.000) 2026-03-03 16:41:21 Started transferring output files
+...
+040 (2689751.000.000) 2026-03-03 16:41:21 Finished transferring output files
+...
+005 (2689751.000.000) 2026-03-03 16:41:21 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 05:35:18, Sys 0 02:04:39  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 05:35:18, Sys 0 02:04:39  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	19122  -  Run Bytes Sent By Job
+	490  -  Run Bytes Received By Job
+	19122  -  Total Bytes Sent By Job
+	490  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     0.57        8         8 
+	   Disk (KB)            :    44           1      2762 
+	   GPUs                 :     1.52        2         2 "GPU-8d098f6e,GPU-8b768c86"
+	   GpusMemory (MB)      :  9052                       
+	   Memory (MB)          :  4810       24576     24600 
+	   TimeExecute (s)      : 11179                       
+	   TimeSlotBusy (s)     : 11180                       
+...

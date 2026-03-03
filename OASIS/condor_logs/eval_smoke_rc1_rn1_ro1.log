@@ -1,0 +1,209 @@
+000 (2689691.000.000) 2026-03-02 21:44:38 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+040 (2689691.000.000) 2026-03-02 21:44:39 Started transferring input files
+	Transferring to host: <130.246.45.163:9618?addrs=130.246.45.163-9618+[2001-630-58-1c20--82f6-2da3]-9618&alias=heplnc163.pp.rl.ac.uk&noUDP&sock=slot1_35_12543_6d97_5354>
+...
+040 (2689691.000.000) 2026-03-02 21:44:39 Finished transferring input files
+...
+001 (2689691.000.000) 2026-03-02 21:44:40 Job executing on host: <130.246.45.163:9618?addrs=130.246.45.163-9618+[2001-630-58-1c20--82f6-2da3]-9618&alias=heplnc163.pp.rl.ac.uk&noUDP&sock=startd_12502_e91d>
+	SlotName: slot1_35@heplnc163.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_2063371"
+	Cpus = 2
+	Disk = 6865
+	GPUs = 0
+	Memory = 8200
+...
+006 (2689691.000.000) 2026-03-02 21:44:44 Image size of job updated: 112
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (2689691.000.000) 2026-03-02 21:44:44 Started transferring output files
+...
+040 (2689691.000.000) 2026-03-02 21:44:44 Finished transferring output files
+...
+005 (2689691.000.000) 2026-03-02 21:44:45 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	315  -  Run Bytes Sent By Job
+	288  -  Run Bytes Received By Job
+	315  -  Total Bytes Sent By Job
+	288  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      6865 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        4                    
+	   TimeSlotBusy (s)     :        5                    
+...
+000 (2689692.000.000) 2026-03-02 21:48:50 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+040 (2689692.000.000) 2026-03-02 21:49:01 Started transferring input files
+	Transferring to host: <130.246.45.163:9618?addrs=130.246.45.163-9618+[2001-630-58-1c20--82f6-2da3]-9618&alias=heplnc163.pp.rl.ac.uk&noUDP&sock=slot1_38_12543_6d97_5359>
+...
+040 (2689692.000.000) 2026-03-02 21:49:01 Finished transferring input files
+...
+001 (2689692.000.000) 2026-03-02 21:49:02 Job executing on host: <130.246.45.163:9618?addrs=130.246.45.163-9618+[2001-630-58-1c20--82f6-2da3]-9618&alias=heplnc163.pp.rl.ac.uk&noUDP&sock=startd_12502_e91d>
+	SlotName: slot1_38@heplnc163.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_2094566"
+	Cpus = 2
+	Disk = 6865
+	GPUs = 0
+	Memory = 8200
+...
+006 (2689692.000.000) 2026-03-02 21:49:03 Image size of job updated: 104
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (2689692.000.000) 2026-03-02 21:49:03 Started transferring output files
+...
+040 (2689692.000.000) 2026-03-02 21:49:03 Finished transferring output files
+...
+005 (2689692.000.000) 2026-03-02 21:49:03 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	315  -  Run Bytes Sent By Job
+	288  -  Run Bytes Received By Job
+	315  -  Total Bytes Sent By Job
+	288  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      6865 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        1                    
+	   TimeSlotBusy (s)     :        2                    
+...
+000 (2689693.000.000) 2026-03-02 21:50:00 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+040 (2689693.000.000) 2026-03-02 21:50:18 Started transferring input files
+	Transferring to host: <130.246.45.153:9618?addrs=130.246.45.153-9618+[2001-630-58-1c20--82f6-2d99]-9618&alias=heplnc153.pp.rl.ac.uk&noUDP&sock=slot1_35_12542_b937_5139>
+...
+040 (2689693.000.000) 2026-03-02 21:50:18 Finished transferring input files
+...
+001 (2689693.000.000) 2026-03-02 21:50:19 Job executing on host: <130.246.45.153:9618?addrs=130.246.45.153-9618+[2001-630-58-1c20--82f6-2d99]-9618&alias=heplnc153.pp.rl.ac.uk&noUDP&sock=startd_12502_e91d>
+	SlotName: slot1_35@heplnc153.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_2626049"
+	Cpus = 2
+	Disk = 6798
+	GPUs = 0
+	Memory = 8200
+...
+006 (2689693.000.000) 2026-03-02 21:50:22 Image size of job updated: 336
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (2689693.000.000) 2026-03-02 21:50:22 Started transferring output files
+...
+040 (2689693.000.000) 2026-03-02 21:50:22 Finished transferring output files
+...
+005 (2689693.000.000) 2026-03-02 21:50:23 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	315  -  Run Bytes Sent By Job
+	288  -  Run Bytes Received By Job
+	315  -  Total Bytes Sent By Job
+	288  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 2         2 
+	   Disk (KB)            :       15        1      6798 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        3                    
+	   TimeSlotBusy (s)     :        4                    
+...
+000 (2689694.000.000) 2026-03-02 21:54:10 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+040 (2689694.000.000) 2026-03-02 21:54:21 Started transferring input files
+	Transferring to host: <130.246.45.163:9618?addrs=130.246.45.163-9618+[2001-630-58-1c20--82f6-2da3]-9618&alias=heplnc163.pp.rl.ac.uk&noUDP&sock=slot1_35_12543_6d97_5362>
+...
+040 (2689694.000.000) 2026-03-02 21:54:21 Finished transferring input files
+...
+001 (2689694.000.000) 2026-03-02 21:54:22 Job executing on host: <130.246.45.163:9618?addrs=130.246.45.163-9618+[2001-630-58-1c20--82f6-2da3]-9618&alias=heplnc163.pp.rl.ac.uk&noUDP&sock=startd_12502_e91d>
+	SlotName: slot1_35@heplnc163.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_2133251"
+	Cpus = 2
+	Disk = 6865
+	GPUs = 0
+	Memory = 8200
+...
+006 (2689694.000.000) 2026-03-02 21:54:23 Image size of job updated: 100
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (2689694.000.000) 2026-03-02 21:54:23 Started transferring output files
+...
+040 (2689694.000.000) 2026-03-02 21:54:23 Finished transferring output files
+...
+005 (2689694.000.000) 2026-03-02 21:54:23 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	315  -  Run Bytes Sent By Job
+	325  -  Run Bytes Received By Job
+	315  -  Total Bytes Sent By Job
+	325  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      6865 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     8192      8200 
+	   TimeExecute (s)      :        1                    
+	   TimeSlotBusy (s)     :        2                    
+...
+000 (2689695.000.000) 2026-03-02 21:58:07 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+040 (2689695.000.000) 2026-03-02 21:58:25 Started transferring input files
+	Transferring to host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=slot1_1_16435_b1b5_2011>
+...
+040 (2689695.000.000) 2026-03-02 21:58:25 Finished transferring input files
+...
+001 (2689695.000.000) 2026-03-02 21:58:26 Job executing on host: <130.246.47.13:9618?addrs=130.246.47.13-9618+[2001-630-58-1c20--82f6-2f0d]-9618&alias=mercury013.pp.rl.ac.uk&noUDP&sock=startd_16123_9d8c>
+	SlotName: slot1_1@mercury013.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1054423"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+006 (2689695.000.000) 2026-03-02 21:58:34 Image size of job updated: 894036
+	874  -  MemoryUsage of job (MB)
+	894036  -  ResidentSetSize of job (KB)
+...
+006 (2689695.000.000) 2026-03-02 21:59:27 Image size of job updated: 4322520
+	876  -  MemoryUsage of job (MB)
+	896396  -  ResidentSetSize of job (KB)
+...
+040 (2689695.000.000) 2026-03-02 21:59:27 Started transferring output files
+...
+040 (2689695.000.000) 2026-03-02 21:59:27 Finished transferring output files
+...
+005 (2689695.000.000) 2026-03-02 21:59:27 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:25, Sys 0 00:00:16  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:25, Sys 0 00:00:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	5154  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	5154  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       26        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      876     8192      8200 
+	   TimeExecute (s)      :       61                    
+	   TimeSlotBusy (s)     :       62                    
+...

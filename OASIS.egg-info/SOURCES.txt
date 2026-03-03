@@ -4,10 +4,15 @@ OASIS/__init__.py
 OASIS/config.py
 OASIS/datasets.py
 OASIS/eval.py
+OASIS/eval_entry.py
+OASIS/eval_metrics.py
 OASIS/generate_tensors.py
 OASIS/losses.py
+OASIS/make_runs.py
+OASIS/make_sweep_dag.py
 OASIS/model.py
 OASIS/train.py
+OASIS/train_entry.py
 OASIS/utils.py
 OASIS.egg-info/PKG-INFO
 OASIS.egg-info/SOURCES.txt

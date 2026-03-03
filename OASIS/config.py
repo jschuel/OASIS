@@ -9,20 +9,19 @@ class OASISConfig:
     Single config dataclass used for training and evaluation.
     Parameters set here are passed into train() and evaluate()
     """
-    # Data
-    data_root: str = "../data/tensors" # path containing {train,val,test}/{hybrid,NR}/*.pt
+    data_root: str = "/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" # path containing {train,val,test}/{hybrid,NR}/*.pt
     #data_root: str = "/media/jeef/ssd_data/Migdal/hybrids/segTensorsNew/"
     kinds: Sequence[str] = ("hybrid", "NR") # species subfolders for data_root
     split: str = "train" # used by dataset helpers
     hw: Tuple[int,int] = (288, 512) # (H,W) image dimensions
     file_pattern: str = "*.pt"
-    dataframe_root: str = "../data/dataframes"
+    dataframe_root: str = "/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes"
 
     # U--Net
     base_channels: int = 32
 
     # Training
-    model_dir: str = "../data/models"
+    model_dir: str = "/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation"
     best_training_weights: str = "best.pt" #name of weights file you want training to save
     last_training_weights: str = "last.pt"
     epochs: int = 50
@@ -45,5 +44,5 @@ class OASISConfig:
     
     # Evaluation
     model_file: str = os.path.join(model_dir,"nominal_weights.pt") #name of weights file you want to use for evaluation
-    eval_split: str = "test"
+    eval_split: str = "train"
     eval_batch_size: int = 16

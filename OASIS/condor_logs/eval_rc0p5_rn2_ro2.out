@@ -1,0 +1,3 @@
+[INFO] host=mercury013.pp.rl.ac.uk
+[INFO] pwd=/scratch/condor/dir_1274645
+[INFO] python=/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin/python

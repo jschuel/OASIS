@@ -1,0 +1,5 @@
+[INFO] host=mercury013.pp.rl.ac.uk
+[INFO] pwd=/scratch/condor/dir_1054423
+[INFO] python=/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin/python
+[4-5 keV] N=157 | median=-29.987% | p25=-96.977% | p75=-4.819%
+Wrote /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/smoke_rc1_rn1_ro1/metrics.json

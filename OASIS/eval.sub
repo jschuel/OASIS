@@ -1,23 +1,24 @@
-# eval.sub
-universe              = vanilla
-getenv                = True
+universe   = vanilla
+getenv     = True
 
-request_cpus          = 2
-request_memory        = 8GB
+request_cpus   = 2
+request_memory = 8GB
 
-executable            = /bin/bash
-arguments             = -lc "set -euo pipefail; \
-  cd $(pwd); \
-  source .venv/bin/activate; \
-  python -m oasis.eval_entry \
-    --run_id $(run_id) \
-    --model_root $(model_root) \
-    --data_root $(data_root) \
-    --df_path $(df_path) \
-    --species $(species)"
+initialdir = /mercury/data3/jschueler1/OASIS/OASIS
 
-log                   = condor_logs/eval_$(run_id).log
-output                = condor_logs/eval_$(run_id).out
-error                 = condor_logs/eval_$(run_id).err
+executable = $(initialdir)/run_eval.sh
 
-should_transfer_files = NO
+requirements = regexp("^mercury", Machine)
+
+environment = \
+  "PYTHON=/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin/python \
+   RUN_ID=$(run_id) \
+   DATA_ROOT=$(data_root) MODEL_ROOT=$(model_root) \
+   DF_PATH=$(df_path) SPECIES=$(species)"
+
+log    = condor_logs/eval_$(run_id).log
+output = condor_logs/eval_$(run_id).out
+error  = condor_logs/eval_$(run_id).err
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT

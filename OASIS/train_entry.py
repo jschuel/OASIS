@@ -32,6 +32,10 @@ def main():
     p.add_argument("--batch_size", type=int, default=None)
     p.add_argument("--lr", type=float, default=None)
 
+    #To run a quick test
+    p.add_argument("--n_train_per_kind", type=int, default=None)
+    p.add_argument("--n_val_per_kind", type=int, default=None)
+
     args = p.parse_args()
     cfg = OASISConfig()
 
@@ -48,6 +52,10 @@ def main():
         cfg = replace(cfg, batch_size=args.batch_size)
     if args.lr is not None:
         cfg = replace(cfg, lr=args.lr)
+    if args.n_train_per_kind is not None:
+        cfg = replace(cfg, n_train_per_kind=args.n_train_per_kind)
+    if args.n_val_per_kind is not None:
+        cfg = replace(cfg, n_val_per_kind=args.n_val_per_kind)
 
     cfg = apply_ratios(cfg, args.rc, args.rn, args.ro)
 

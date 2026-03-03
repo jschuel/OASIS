@@ -1,0 +1,134 @@
+[INFO] host=hepacc14.pp.rl.ac.uk
+[INFO] pwd=/scratch/condor/dir_465774
+[INFO] torchrun=/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin/torchrun
+[INFO] CUDA_VISIBLE_DEVICES=GPU-b429ae6b-4e6f-8a3a-59ed-b8ebf457326c,GPU-047945ff-a2f2-347b-aafb-81bcb29e0f43
+[run_id=rc0p5_rn0p5_ro2] rc=0.5 rn=0.5 ro=2.0
+  w_ER=0.5 w_NR=1.0 | W_ER=1.0 W_NR=0.5 W_ov=2.0
+  model_dir=/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2
+DDP=True world=2 device=cuda:0
+Train: 36000 | Val: 4000
+Epoch 001 train: loss:0.0305 | reg:0.0302 | tv:0.0251 | time 336.7s
+Epoch 001  val : loss:0.0180 | reg:0.0177 | tv:0.0276
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0180)
+Epoch 002 train: loss:0.0139 | reg:0.0136 | tv:0.0252 | time 347.0s
+Epoch 002  val : loss:0.0099 | reg:0.0096 | tv:0.0257
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0099)
+Epoch 003 train: loss:0.0112 | reg:0.0109 | tv:0.0254 | time 328.9s
+Epoch 003  val : loss:0.0105 | reg:0.0103 | tv:0.0264
+  no improvement for 1/10 epochs
+Epoch 004 train: loss:0.0103 | reg:0.0100 | tv:0.0254 | time 332.3s
+Epoch 004  val : loss:0.0080 | reg:0.0077 | tv:0.0258
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0080)
+Epoch 005 train: loss:0.0096 | reg:0.0094 | tv:0.0255 | time 319.0s
+Epoch 005  val : loss:0.0085 | reg:0.0082 | tv:0.0256
+  no improvement for 1/10 epochs
+Epoch 006 train: loss:0.0096 | reg:0.0093 | tv:0.0255 | time 284.3s
+Epoch 006  val : loss:0.0088 | reg:0.0085 | tv:0.0267
+  no improvement for 2/10 epochs
+Epoch 007 train: loss:0.0094 | reg:0.0092 | tv:0.0255 | time 282.8s
+Epoch 007  val : loss:0.0076 | reg:0.0073 | tv:0.0258
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0076)
+Epoch 008 train: loss:0.0092 | reg:0.0089 | tv:0.0255 | time 297.6s
+Epoch 008  val : loss:0.0071 | reg:0.0068 | tv:0.0259
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0071)
+Epoch 009 train: loss:0.0090 | reg:0.0087 | tv:0.0256 | time 292.5s
+Epoch 009  val : loss:0.0087 | reg:0.0084 | tv:0.0257
+  no improvement for 1/10 epochs
+Epoch 010 train: loss:0.0087 | reg:0.0084 | tv:0.0256 | time 312.1s
+Epoch 010  val : loss:0.0077 | reg:0.0074 | tv:0.0266
+  no improvement for 2/10 epochs
+Epoch 011 train: loss:0.0085 | reg:0.0082 | tv:0.0256 | time 315.7s
+Epoch 011  val : loss:0.0068 | reg:0.0065 | tv:0.0261
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0068)
+Epoch 012 train: loss:0.0080 | reg:0.0077 | tv:0.0256 | time 297.5s
+Epoch 012  val : loss:0.0065 | reg:0.0063 | tv:0.0264
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0065)
+Epoch 013 train: loss:0.0078 | reg:0.0076 | tv:0.0256 | time 320.9s
+Epoch 013  val : loss:0.0069 | reg:0.0067 | tv:0.0260
+  no improvement for 1/10 epochs
+Epoch 014 train: loss:0.0082 | reg:0.0079 | tv:0.0256 | time 283.1s
+Epoch 014  val : loss:0.0071 | reg:0.0069 | tv:0.0264
+  no improvement for 2/10 epochs
+Epoch 015 train: loss:0.0079 | reg:0.0076 | tv:0.0256 | time 286.3s
+Epoch 015  val : loss:0.0085 | reg:0.0083 | tv:0.0254
+  no improvement for 3/10 epochs
+Epoch 016 train: loss:0.0078 | reg:0.0075 | tv:0.0256 | time 288.2s
+Epoch 016  val : loss:0.0066 | reg:0.0063 | tv:0.0259
+  no improvement for 4/10 epochs
+Epoch 017 train: loss:0.0074 | reg:0.0071 | tv:0.0256 | time 303.4s
+Epoch 017  val : loss:0.0061 | reg:0.0059 | tv:0.0262
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0061)
+Epoch 018 train: loss:0.0070 | reg:0.0068 | tv:0.0256 | time 298.7s
+Epoch 018  val : loss:0.0059 | reg:0.0057 | tv:0.0261
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0059)
+Epoch 019 train: loss:0.0074 | reg:0.0071 | tv:0.0256 | time 305.5s
+Epoch 019  val : loss:0.0070 | reg:0.0067 | tv:0.0265
+  no improvement for 1/10 epochs
+Epoch 020 train: loss:0.0073 | reg:0.0070 | tv:0.0256 | time 316.5s
+Epoch 020  val : loss:0.0063 | reg:0.0060 | tv:0.0263
+  no improvement for 2/10 epochs
+Epoch 021 train: loss:0.0070 | reg:0.0067 | tv:0.0256 | time 332.4s
+Epoch 021  val : loss:0.0068 | reg:0.0065 | tv:0.0265
+  no improvement for 3/10 epochs
+Epoch 022 train: loss:0.0068 | reg:0.0066 | tv:0.0256 | time 303.9s
+Epoch 022  val : loss:0.0058 | reg:0.0055 | tv:0.0262
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0058)
+Epoch 023 train: loss:0.0067 | reg:0.0065 | tv:0.0257 | time 292.4s
+Epoch 023  val : loss:0.0056 | reg:0.0054 | tv:0.0262
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0056)
+Epoch 024 train: loss:0.0066 | reg:0.0063 | tv:0.0257 | time 316.4s
+Epoch 024  val : loss:0.0061 | reg:0.0059 | tv:0.0265
+  no improvement for 1/10 epochs
+Epoch 025 train: loss:0.0068 | reg:0.0065 | tv:0.0257 | time 312.7s
+Epoch 025  val : loss:0.0062 | reg:0.0059 | tv:0.0258
+  no improvement for 2/10 epochs
+Epoch 026 train: loss:0.0068 | reg:0.0065 | tv:0.0257 | time 293.8s
+Epoch 026  val : loss:0.0063 | reg:0.0061 | tv:0.0258
+  no improvement for 3/10 epochs
+Epoch 027 train: loss:0.0064 | reg:0.0061 | tv:0.0257 | time 277.5s
+Epoch 027  val : loss:0.0057 | reg:0.0054 | tv:0.0261
+  no improvement for 4/10 epochs
+Epoch 028 train: loss:0.0062 | reg:0.0059 | tv:0.0257 | time 287.7s
+Epoch 028  val : loss:0.0061 | reg:0.0059 | tv:0.0264
+  no improvement for 5/10 epochs
+Epoch 029 train: loss:0.0062 | reg:0.0059 | tv:0.0257 | time 304.8s
+Epoch 029  val : loss:0.0062 | reg:0.0059 | tv:0.0263
+  no improvement for 6/10 epochs
+Epoch 030 train: loss:0.0063 | reg:0.0060 | tv:0.0257 | time 299.5s
+Epoch 030  val : loss:0.0060 | reg:0.0057 | tv:0.0263
+  no improvement for 7/10 epochs
+Epoch 031 train: loss:0.0061 | reg:0.0059 | tv:0.0257 | time 272.8s
+Epoch 031  val : loss:0.0054 | reg:0.0051 | tv:0.0260
+  ✓ Saved best to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/best.pt (val 0.0054)
+Epoch 032 train: loss:0.0059 | reg:0.0056 | tv:0.0257 | time 287.1s
+Epoch 032  val : loss:0.0054 | reg:0.0051 | tv:0.0261
+  no improvement for 1/10 epochs
+Epoch 033 train: loss:0.0061 | reg:0.0058 | tv:0.0257 | time 300.2s
+Epoch 033  val : loss:0.0054 | reg:0.0051 | tv:0.0262
+  no improvement for 2/10 epochs
+Epoch 034 train: loss:0.0060 | reg:0.0058 | tv:0.0257 | time 317.0s
+Epoch 034  val : loss:0.0057 | reg:0.0054 | tv:0.0259
+  no improvement for 3/10 epochs
+Epoch 035 train: loss:0.0058 | reg:0.0056 | tv:0.0257 | time 295.2s
+Epoch 035  val : loss:0.0055 | reg:0.0052 | tv:0.0263
+  no improvement for 4/10 epochs
+Epoch 036 train: loss:0.0058 | reg:0.0055 | tv:0.0257 | time 282.5s
+Epoch 036  val : loss:0.0058 | reg:0.0055 | tv:0.0264
+  no improvement for 5/10 epochs
+Epoch 037 train: loss:0.0057 | reg:0.0055 | tv:0.0257 | time 283.8s
+Epoch 037  val : loss:0.0054 | reg:0.0051 | tv:0.0262
+  no improvement for 6/10 epochs
+Epoch 038 train: loss:0.0057 | reg:0.0054 | tv:0.0257 | time 282.4s
+Epoch 038  val : loss:0.0054 | reg:0.0051 | tv:0.0262
+  no improvement for 7/10 epochs
+Epoch 039 train: loss:0.0057 | reg:0.0055 | tv:0.0257 | time 285.3s
+Epoch 039  val : loss:0.0062 | reg:0.0060 | tv:0.0261
+  no improvement for 8/10 epochs
+Epoch 040 train: loss:0.0059 | reg:0.0057 | tv:0.0257 | time 291.0s
+Epoch 040  val : loss:0.0054 | reg:0.0051 | tv:0.0262
+  no improvement for 9/10 epochs
+Epoch 041 train: loss:0.0056 | reg:0.0053 | tv:0.0257 | time 275.0s
+Epoch 041  val : loss:0.0056 | reg:0.0053 | tv:0.0259
+  no improvement for 10/10 epochs
+Early stopping at epoch 41 (best epoch 31, val 0.0054)
+Done. Saved last to /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc0p5_rn0p5_ro2/last.pt

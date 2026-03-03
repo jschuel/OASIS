@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/mercury/data3/jschueler1/OASIS/OASIS/eval_entry.py", line 52, in <module>
+    main()
+  File "/mercury/data3/jschueler1/OASIS/OASIS/eval_entry.py", line 35, in main
+    test_df = pd.read_feather(args.df_path)
+  File "/mercury/data3/jschueler1/python_pkgs/pandas/io/feather_format.py", line 119, in read_feather
+    with get_handle(
+  File "/mercury/data3/jschueler1/python_pkgs/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather'

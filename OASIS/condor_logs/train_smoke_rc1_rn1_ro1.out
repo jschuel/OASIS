@@ -1,0 +1,169 @@
+APPTAINER_CACHEDIR=/scratch/condor/dir_1937872
+BASH=/scratch/condor/dir_1937872/bash
+BASHOPTS=checkwinsize:cmdhist:complete_fullquote:extquote:force_fignore:globasciiranges:hostcomplete:interactive_comments:login_shell:progcomp:promptvars:sourcepath
+BASHRCSOURCED=Y
+BASH_ALIASES=()
+BASH_ARGC=([0]="29")
+BASH_ARGV=([0]="2e-4" [1]="--lr" [2]="4" [3]="--batch_size" [4]="2" [5]="--patience" [6]="3" [7]="--epochs" [8]="42" [9]="--seed" [10]="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" [11]="--model_root" [12]="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" [13]="--data_root" [14]="smoke_rc1_rn1_ro1" [15]="--run_id" [16]="1" [17]="--ro" [18]="1" [19]="--rn" [20]="1" [21]="--rc" [22]="OASIS.train_entry" [23]="-m" [24]="--nproc_per_node=2" [25]="/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin/torchrun" [26]="/mercury/data3/jschueler1/OASIS/OASIS\\;" [27]="cd" [28]="pipefail\\;")
+BASH_CMDS=()
+BASH_ENV=/usr/share/lmod/lmod/init/bash
+BASH_EXECUTION_STRING=set
+BASH_LINENO=()
+BASH_SOURCE=()
+BASH_VERSINFO=([0]="5" [1]="1" [2]="8" [3]="1" [4]="release" [5]="x86_64-redhat-linux-gnu")
+BASH_VERSION='5.1.8(1)-release'
+BATCH_SYSTEM=HTCondor
+CONDOR_STARTER_PID=1937872
+CUBACORES=8
+CUDA_VISIBLE_DEVICES=GPU-d9b658a2-c95a-d526-02a8-5a7d074d5a8b,GPU-fe2235b8-8efe-c420-b75b-f57270500d4a
+CUPS_USER=jschueler1
+CVS_RSH=ssh
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/8100071/bus
+DCACHE_CBPORT=50000:52000
+DEBUGINFOD_IMA_CERT_PATH=/etc/keys/ima:
+DIRSTACK=()
+DISPLAY=localhost:13.0
+EUID=8100071
+FPATH=/usr/share/lmod/lmod/init/ksh_funcs
+GOMAXPROCS=8
+GPU_DEVICE_ORDINAL=GPU-d9b658a2,GPU-fe2235b8
+GROUPS=()
+HISTCONTROL=ignoredups
+HISTSIZE=1000
+HOME=/home/ppd/jschueler1
+HOSTNAME=hepacc15.pp.rl.ac.uk
+HOSTTYPE=x86_64
+IFS=$' \t\n'
+JOBFEATURES=/tmp/mjf-jschueler1/jobfeatures-heplnv147.pp.rl.ac.uk_2689689.0_1772487085
+JULIA_NUM_THREADS=8
+LANG=en_GB.UTF-8
+LESSOPEN='||/usr/bin/lesspipe.sh %s'
+LMOD_CMD=/usr/share/lmod/lmod/libexec/lmod
+LMOD_DIR=/usr/share/lmod/lmod/libexec
+LMOD_PKG=/usr/share/lmod/lmod
+LMOD_ROOT=/usr/share/lmod
+LMOD_SETTARG_FULL_SUPPORT=no
+LMOD_VERSION=8.7.65
+LMOD_sys=Linux
+LOGNAME=jschueler1
+LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.m4a=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.oga=01;36:*.opus=01;36:*.spx=01;36:*.xspf=01;36:'
+MACHTYPE=x86_64-redhat-linux-gnu
+MAIL=/var/spool/mail/jschueler1
+MANPATH=/usr/share/lmod/lmod/share/man::/opt/puppetlabs/puppet/share/man
+MKL_NUM_THREADS=8
+MODULEPATH=/etc/modulefiles:/usr/share/modulefiles:/usr/share/modulefiles/Linux:/usr/share/modulefiles/Core:/usr/share/lmod/lmod/modulefiles/Core
+MODULEPATH_ROOT=/usr/share/modulefiles
+MODULESHOME=/usr/share/lmod/lmod
+MOTD_SHOWN=pam
+NUMEXPR_NUM_THREADS=8
+NVIDIA_VISIBLE_DEVICES=GPU-d9b658a2-c95a-d526-02a8-5a7d074d5a8b,GPU-fe2235b8-8efe-c420-b75b-f57270500d4a
+OLDPWD=/mercury/data3/jschueler1/OASIS/OASIS/condor_logs
+OMP_NUM_THREADS=8
+OMP_THREAD_LIMIT=8
+OPENBLAS_NUM_THREADS=8
+OPTERR=1
+OPTIND=1
+OSTYPE=linux-gnu
+PATH=/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin:/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin:/usr/lib64/ccache:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/puppetlabs/bin:/home/ppd/jschueler1/bin:/home/ppd/jschueler1/bin
+PIPESTATUS=([0]="0")
+PPID=1937872
+PS4='+ '
+PWD=/scratch/condor/dir_1937872
+PYTHONPATH=/mercury/data3/jschueler1/python_pkgs:/mercury/data3/jschueler1/python_pkgs:
+PYTHON_CPU_COUNT=8
+ROOT_MAX_THREADS=8
+SHELL=/bin/bash
+SHELLNAME=bash
+SHELLOPTS=braceexpand:hashall:interactive-comments
+SHLVL=2
+SINGULARITY_CACHEDIR=/scratch/condor/dir_1937872
+SSH_CLIENT='130.246.92.171 45800 22'
+SSH_CONNECTION='130.246.92.171 45800 130.246.47.7 22'
+SSH_TTY=/dev/pts/6
+S_COLORS=auto
+TEMP=/tmp
+TERM=xterm-256color
+TF_LOOP_PARALLEL_ITERATIONS=8
+TF_NUM_THREADS=8
+TMP=/tmp
+TMPDIR=/tmp
+UID=8100071
+USER=jschueler1
+XDG_DATA_DIRS=/home/ppd/jschueler1/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+XDG_RUNTIME_DIR=/run/user/8100071
+XDG_SESSION_CLASS=user
+XDG_SESSION_ID=2284
+XDG_SESSION_TYPE=tty
+_=USERNAME
+_CHIRP_DELAYED_UPDATE_PREFIX='Chirp*'
+_CONDOR_ANCESTOR_14906=14974:1772092065:2452599443
+_CONDOR_ANCESTOR_14974=1937872:1772487098:375287638
+_CONDOR_ANCESTOR_1937872=1937874:1772487099:3007408503
+_CONDOR_AssignedGPUs=GPU-d9b658a2,GPU-fe2235b8
+_CONDOR_BIN=/usr/bin
+_CONDOR_CHIRP_CONFIG=/scratch/condor/dir_1937872/.chirp.config
+_CONDOR_JOB_AD=/scratch/condor/dir_1937872/.job.ad
+_CONDOR_JOB_IWD=/scratch/condor/dir_1937872
+_CONDOR_JOB_PIDS=
+_CONDOR_MACHINE_AD=/scratch/condor/dir_1937872/.machine.ad
+_CONDOR_SCRATCH_DIR=/scratch/condor/dir_1937872
+_CONDOR_SLOT=slot1_1
+_CONDOR_WRAPPER_ERROR_FILE=/scratch/condor/dir_1937872/.job_wrapper_failure
+hostname=hepacc15
+new_dirs=
+which_declare='declare -f'
+which_opt=-f
+command_not_found_handle () 
+{ 
+    local runcnf=1;
+    local retval=127;
+    [[ $- == *"i"* ]] || runcnf=0;
+    [[ ! -S /run/dbus/system_bus_socket ]] && runcnf=0;
+    [[ ! -x '/usr/libexec/packagekitd' ]] && runcnf=0;
+    [[ -n ${COMP_CWORD-} ]] && runcnf=0;
+    [[ ! -x '/usr/libexec/pk-command-not-found' ]] && runcnf=0;
+    if [ $runcnf -eq 1 ]; then
+        '/usr/libexec/pk-command-not-found' "$@";
+        retval=$?;
+    else
+        if [[ -n "${BASH_VERSION-}" ]]; then
+            printf 'bash: %s%s\n' "${1:+$1: }" "$(gettext PackageKit 'command not found')" 1>&2;
+        fi;
+    fi;
+    return $retval
+}
+gawklibpath_append () 
+{ 
+    [ -z "$AWKLIBPATH" ] && AWKLIBPATH=`gawk 'BEGIN {print ENVIRON["AWKLIBPATH"]}'`;
+    export AWKLIBPATH="$AWKLIBPATH:$*"
+}
+gawklibpath_default () 
+{ 
+    unset AWKLIBPATH;
+    export AWKLIBPATH=`gawk 'BEGIN {print ENVIRON["AWKLIBPATH"]}'`
+}
+gawklibpath_prepend () 
+{ 
+    [ -z "$AWKLIBPATH" ] && AWKLIBPATH=`gawk 'BEGIN {print ENVIRON["AWKLIBPATH"]}'`;
+    export AWKLIBPATH="$*:$AWKLIBPATH"
+}
+gawkpath_append () 
+{ 
+    [ -z "$AWKPATH" ] && AWKPATH=`gawk 'BEGIN {print ENVIRON["AWKPATH"]}'`;
+    export AWKPATH="$AWKPATH:$*"
+}
+gawkpath_default () 
+{ 
+    unset AWKPATH;
+    export AWKPATH=`gawk 'BEGIN {print ENVIRON["AWKPATH"]}'`
+}
+gawkpath_prepend () 
+{ 
+    [ -z "$AWKPATH" ] && AWKPATH=`gawk 'BEGIN {print ENVIRON["AWKPATH"]}'`;
+    export AWKPATH="$*:$AWKPATH"
+}
+which () 
+{ 
+    ( alias;
+    eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@
+}

@@ -1,0 +1,292 @@
+# sweep.dag (auto-generated)
+# DATA_ROOT=/mercury/data3/jschueler1/OASIS_data/OASIS_tensors
+# MODEL_ROOT=/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation
+# DF_PATH=/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather
+
+JOB J_train_rc0p5_rn0p5_ro1 train.sub
+VARS J_train_rc0p5_rn0p5_ro1 run_id="rc0p5_rn0p5_ro1" rc="0.5" rn="0.5" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn0p5_ro1 eval.sub
+VARS J_eval_rc0p5_rn0p5_ro1 run_id="rc0p5_rn0p5_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn0p5_ro1 CHILD J_eval_rc0p5_rn0p5_ro1
+
+JOB J_train_rc0p5_rn0p5_ro2 train.sub
+VARS J_train_rc0p5_rn0p5_ro2 run_id="rc0p5_rn0p5_ro2" rc="0.5" rn="0.5" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn0p5_ro2 eval.sub
+VARS J_eval_rc0p5_rn0p5_ro2 run_id="rc0p5_rn0p5_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn0p5_ro2 CHILD J_eval_rc0p5_rn0p5_ro2
+
+JOB J_train_rc0p5_rn0p5_ro4 train.sub
+VARS J_train_rc0p5_rn0p5_ro4 run_id="rc0p5_rn0p5_ro4" rc="0.5" rn="0.5" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn0p5_ro4 eval.sub
+VARS J_eval_rc0p5_rn0p5_ro4 run_id="rc0p5_rn0p5_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn0p5_ro4 CHILD J_eval_rc0p5_rn0p5_ro4
+
+JOB J_train_rc0p5_rn0p5_ro8 train.sub
+VARS J_train_rc0p5_rn0p5_ro8 run_id="rc0p5_rn0p5_ro8" rc="0.5" rn="0.5" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn0p5_ro8 eval.sub
+VARS J_eval_rc0p5_rn0p5_ro8 run_id="rc0p5_rn0p5_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn0p5_ro8 CHILD J_eval_rc0p5_rn0p5_ro8
+
+JOB J_train_rc0p5_rn1_ro1 train.sub
+VARS J_train_rc0p5_rn1_ro1 run_id="rc0p5_rn1_ro1" rc="0.5" rn="1.0" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn1_ro1 eval.sub
+VARS J_eval_rc0p5_rn1_ro1 run_id="rc0p5_rn1_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn1_ro1 CHILD J_eval_rc0p5_rn1_ro1
+
+JOB J_train_rc0p5_rn1_ro2 train.sub
+VARS J_train_rc0p5_rn1_ro2 run_id="rc0p5_rn1_ro2" rc="0.5" rn="1.0" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn1_ro2 eval.sub
+VARS J_eval_rc0p5_rn1_ro2 run_id="rc0p5_rn1_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn1_ro2 CHILD J_eval_rc0p5_rn1_ro2
+
+JOB J_train_rc0p5_rn1_ro4 train.sub
+VARS J_train_rc0p5_rn1_ro4 run_id="rc0p5_rn1_ro4" rc="0.5" rn="1.0" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn1_ro4 eval.sub
+VARS J_eval_rc0p5_rn1_ro4 run_id="rc0p5_rn1_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn1_ro4 CHILD J_eval_rc0p5_rn1_ro4
+
+JOB J_train_rc0p5_rn1_ro8 train.sub
+VARS J_train_rc0p5_rn1_ro8 run_id="rc0p5_rn1_ro8" rc="0.5" rn="1.0" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn1_ro8 eval.sub
+VARS J_eval_rc0p5_rn1_ro8 run_id="rc0p5_rn1_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn1_ro8 CHILD J_eval_rc0p5_rn1_ro8
+
+JOB J_train_rc0p5_rn2_ro1 train.sub
+VARS J_train_rc0p5_rn2_ro1 run_id="rc0p5_rn2_ro1" rc="0.5" rn="2.0" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn2_ro1 eval.sub
+VARS J_eval_rc0p5_rn2_ro1 run_id="rc0p5_rn2_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn2_ro1 CHILD J_eval_rc0p5_rn2_ro1
+
+JOB J_train_rc0p5_rn2_ro2 train.sub
+VARS J_train_rc0p5_rn2_ro2 run_id="rc0p5_rn2_ro2" rc="0.5" rn="2.0" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn2_ro2 eval.sub
+VARS J_eval_rc0p5_rn2_ro2 run_id="rc0p5_rn2_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn2_ro2 CHILD J_eval_rc0p5_rn2_ro2
+
+JOB J_train_rc0p5_rn2_ro4 train.sub
+VARS J_train_rc0p5_rn2_ro4 run_id="rc0p5_rn2_ro4" rc="0.5" rn="2.0" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn2_ro4 eval.sub
+VARS J_eval_rc0p5_rn2_ro4 run_id="rc0p5_rn2_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn2_ro4 CHILD J_eval_rc0p5_rn2_ro4
+
+JOB J_train_rc0p5_rn2_ro8 train.sub
+VARS J_train_rc0p5_rn2_ro8 run_id="rc0p5_rn2_ro8" rc="0.5" rn="2.0" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc0p5_rn2_ro8 eval.sub
+VARS J_eval_rc0p5_rn2_ro8 run_id="rc0p5_rn2_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc0p5_rn2_ro8 CHILD J_eval_rc0p5_rn2_ro8
+
+JOB J_train_rc1_rn0p5_ro1 train.sub
+VARS J_train_rc1_rn0p5_ro1 run_id="rc1_rn0p5_ro1" rc="1.0" rn="0.5" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn0p5_ro1 eval.sub
+VARS J_eval_rc1_rn0p5_ro1 run_id="rc1_rn0p5_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn0p5_ro1 CHILD J_eval_rc1_rn0p5_ro1
+
+JOB J_train_rc1_rn0p5_ro2 train.sub
+VARS J_train_rc1_rn0p5_ro2 run_id="rc1_rn0p5_ro2" rc="1.0" rn="0.5" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn0p5_ro2 eval.sub
+VARS J_eval_rc1_rn0p5_ro2 run_id="rc1_rn0p5_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn0p5_ro2 CHILD J_eval_rc1_rn0p5_ro2
+
+JOB J_train_rc1_rn0p5_ro4 train.sub
+VARS J_train_rc1_rn0p5_ro4 run_id="rc1_rn0p5_ro4" rc="1.0" rn="0.5" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn0p5_ro4 eval.sub
+VARS J_eval_rc1_rn0p5_ro4 run_id="rc1_rn0p5_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn0p5_ro4 CHILD J_eval_rc1_rn0p5_ro4
+
+JOB J_train_rc1_rn0p5_ro8 train.sub
+VARS J_train_rc1_rn0p5_ro8 run_id="rc1_rn0p5_ro8" rc="1.0" rn="0.5" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn0p5_ro8 eval.sub
+VARS J_eval_rc1_rn0p5_ro8 run_id="rc1_rn0p5_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn0p5_ro8 CHILD J_eval_rc1_rn0p5_ro8
+
+JOB J_train_rc1_rn1_ro1 train.sub
+VARS J_train_rc1_rn1_ro1 run_id="rc1_rn1_ro1" rc="1.0" rn="1.0" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn1_ro1 eval.sub
+VARS J_eval_rc1_rn1_ro1 run_id="rc1_rn1_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn1_ro1 CHILD J_eval_rc1_rn1_ro1
+
+JOB J_train_rc1_rn1_ro2 train.sub
+VARS J_train_rc1_rn1_ro2 run_id="rc1_rn1_ro2" rc="1.0" rn="1.0" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn1_ro2 eval.sub
+VARS J_eval_rc1_rn1_ro2 run_id="rc1_rn1_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn1_ro2 CHILD J_eval_rc1_rn1_ro2
+
+JOB J_train_rc1_rn1_ro4 train.sub
+VARS J_train_rc1_rn1_ro4 run_id="rc1_rn1_ro4" rc="1.0" rn="1.0" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn1_ro4 eval.sub
+VARS J_eval_rc1_rn1_ro4 run_id="rc1_rn1_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn1_ro4 CHILD J_eval_rc1_rn1_ro4
+
+JOB J_train_rc1_rn1_ro8 train.sub
+VARS J_train_rc1_rn1_ro8 run_id="rc1_rn1_ro8" rc="1.0" rn="1.0" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn1_ro8 eval.sub
+VARS J_eval_rc1_rn1_ro8 run_id="rc1_rn1_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn1_ro8 CHILD J_eval_rc1_rn1_ro8
+
+JOB J_train_rc1_rn2_ro1 train.sub
+VARS J_train_rc1_rn2_ro1 run_id="rc1_rn2_ro1" rc="1.0" rn="2.0" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn2_ro1 eval.sub
+VARS J_eval_rc1_rn2_ro1 run_id="rc1_rn2_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn2_ro1 CHILD J_eval_rc1_rn2_ro1
+
+JOB J_train_rc1_rn2_ro2 train.sub
+VARS J_train_rc1_rn2_ro2 run_id="rc1_rn2_ro2" rc="1.0" rn="2.0" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn2_ro2 eval.sub
+VARS J_eval_rc1_rn2_ro2 run_id="rc1_rn2_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn2_ro2 CHILD J_eval_rc1_rn2_ro2
+
+JOB J_train_rc1_rn2_ro4 train.sub
+VARS J_train_rc1_rn2_ro4 run_id="rc1_rn2_ro4" rc="1.0" rn="2.0" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn2_ro4 eval.sub
+VARS J_eval_rc1_rn2_ro4 run_id="rc1_rn2_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn2_ro4 CHILD J_eval_rc1_rn2_ro4
+
+JOB J_train_rc1_rn2_ro8 train.sub
+VARS J_train_rc1_rn2_ro8 run_id="rc1_rn2_ro8" rc="1.0" rn="2.0" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc1_rn2_ro8 eval.sub
+VARS J_eval_rc1_rn2_ro8 run_id="rc1_rn2_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc1_rn2_ro8 CHILD J_eval_rc1_rn2_ro8
+
+JOB J_train_rc2_rn0p5_ro1 train.sub
+VARS J_train_rc2_rn0p5_ro1 run_id="rc2_rn0p5_ro1" rc="2.0" rn="0.5" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn0p5_ro1 eval.sub
+VARS J_eval_rc2_rn0p5_ro1 run_id="rc2_rn0p5_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn0p5_ro1 CHILD J_eval_rc2_rn0p5_ro1
+
+JOB J_train_rc2_rn0p5_ro2 train.sub
+VARS J_train_rc2_rn0p5_ro2 run_id="rc2_rn0p5_ro2" rc="2.0" rn="0.5" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn0p5_ro2 eval.sub
+VARS J_eval_rc2_rn0p5_ro2 run_id="rc2_rn0p5_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn0p5_ro2 CHILD J_eval_rc2_rn0p5_ro2
+
+JOB J_train_rc2_rn0p5_ro4 train.sub
+VARS J_train_rc2_rn0p5_ro4 run_id="rc2_rn0p5_ro4" rc="2.0" rn="0.5" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn0p5_ro4 eval.sub
+VARS J_eval_rc2_rn0p5_ro4 run_id="rc2_rn0p5_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn0p5_ro4 CHILD J_eval_rc2_rn0p5_ro4
+
+JOB J_train_rc2_rn0p5_ro8 train.sub
+VARS J_train_rc2_rn0p5_ro8 run_id="rc2_rn0p5_ro8" rc="2.0" rn="0.5" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn0p5_ro8 eval.sub
+VARS J_eval_rc2_rn0p5_ro8 run_id="rc2_rn0p5_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn0p5_ro8 CHILD J_eval_rc2_rn0p5_ro8
+
+JOB J_train_rc2_rn1_ro1 train.sub
+VARS J_train_rc2_rn1_ro1 run_id="rc2_rn1_ro1" rc="2.0" rn="1.0" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn1_ro1 eval.sub
+VARS J_eval_rc2_rn1_ro1 run_id="rc2_rn1_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn1_ro1 CHILD J_eval_rc2_rn1_ro1
+
+JOB J_train_rc2_rn1_ro2 train.sub
+VARS J_train_rc2_rn1_ro2 run_id="rc2_rn1_ro2" rc="2.0" rn="1.0" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn1_ro2 eval.sub
+VARS J_eval_rc2_rn1_ro2 run_id="rc2_rn1_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn1_ro2 CHILD J_eval_rc2_rn1_ro2
+
+JOB J_train_rc2_rn1_ro4 train.sub
+VARS J_train_rc2_rn1_ro4 run_id="rc2_rn1_ro4" rc="2.0" rn="1.0" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn1_ro4 eval.sub
+VARS J_eval_rc2_rn1_ro4 run_id="rc2_rn1_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn1_ro4 CHILD J_eval_rc2_rn1_ro4
+
+JOB J_train_rc2_rn1_ro8 train.sub
+VARS J_train_rc2_rn1_ro8 run_id="rc2_rn1_ro8" rc="2.0" rn="1.0" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn1_ro8 eval.sub
+VARS J_eval_rc2_rn1_ro8 run_id="rc2_rn1_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn1_ro8 CHILD J_eval_rc2_rn1_ro8
+
+JOB J_train_rc2_rn2_ro1 train.sub
+VARS J_train_rc2_rn2_ro1 run_id="rc2_rn2_ro1" rc="2.0" rn="2.0" ro="1.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn2_ro1 eval.sub
+VARS J_eval_rc2_rn2_ro1 run_id="rc2_rn2_ro1" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn2_ro1 CHILD J_eval_rc2_rn2_ro1
+
+JOB J_train_rc2_rn2_ro2 train.sub
+VARS J_train_rc2_rn2_ro2 run_id="rc2_rn2_ro2" rc="2.0" rn="2.0" ro="2.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn2_ro2 eval.sub
+VARS J_eval_rc2_rn2_ro2 run_id="rc2_rn2_ro2" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn2_ro2 CHILD J_eval_rc2_rn2_ro2
+
+JOB J_train_rc2_rn2_ro4 train.sub
+VARS J_train_rc2_rn2_ro4 run_id="rc2_rn2_ro4" rc="2.0" rn="2.0" ro="4.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn2_ro4 eval.sub
+VARS J_eval_rc2_rn2_ro4 run_id="rc2_rn2_ro4" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn2_ro4 CHILD J_eval_rc2_rn2_ro4
+
+JOB J_train_rc2_rn2_ro8 train.sub
+VARS J_train_rc2_rn2_ro8 run_id="rc2_rn2_ro8" rc="2.0" rn="2.0" ro="8.0" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" seed="42" epochs="50" patience="10" batch_size="16" lr="0.0002"
+
+JOB J_eval_rc2_rn2_ro8 eval.sub
+VARS J_eval_rc2_rn2_ro8 run_id="rc2_rn2_ro8" data_root="/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" model_root="/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" df_path="/mercury/data3/jschueler1/OASIS_data/OASIS_dataframes/test_hybrid.feather" species="hybrid"
+
+PARENT J_train_rc2_rn2_ro8 CHILD J_eval_rc2_rn2_ro8

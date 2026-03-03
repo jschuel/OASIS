@@ -124,11 +124,11 @@ if __name__ == "__main__":
     #You can manually change the paths here for your use-case
 
     cfg = OASISConfig()
-    split = 'test' # Can be train or test
+    split = 'train' # Can be train or test
     outpath = cfg.data_root
     dataframe_dir = cfg.dataframe_root
-    dataframepaths = {'hybrid': os.path.join(dataframe_dir,'hybrid_test.pkl'),
-                      'NR': os.path.join(dataframe_dir,'NR_test.pkl')}
+    dataframepaths = {'hybrid': os.path.join(dataframe_dir,'hybrid_%s.pkl'%(split)),
+                      'NR': os.path.join(dataframe_dir,'NR_%s.pkl'%(split))}
 
     for (key,path) in zip(dataframepaths.keys(),dataframepaths.values()):
         generate_from_df(pickle_path = path,

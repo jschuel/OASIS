@@ -1,0 +1,20 @@
+export DATA_ROOT=/mercury/data3/jschueler1/OASIS_data/OASIS_tensors
+export MODEL_ROOT=/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation
+export RUN_ID=smoke_rc1_rn1_ro1
+
+torchrun --nproc_per_node=2 -m OASIS.train_entry \
+  --rc 1 --rn 1 --ro 1 --run_id $RUN_ID \
+  --data_root $DATA_ROOT --model_root $MODEL_ROOT \
+  --seed 42 --epochs 3 --patience 2 --batch_size 16 --lr 2e-4 \
+  --n_train_per_kind 128 --n_val_per_kind 64
+
+
+condor_submit \
+  -append "data_root=/mercury/data3/jschueler1/OASIS_data/OASIS_tensors" \
+  -append "model_root=/mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation" \
+  -append "seed=42" \
+  -append "epochs=3" \
+  -append "patience=2" \
+  -append "batch_size=4" \
+  -append "lr=2e-4" \
+  train.sub
