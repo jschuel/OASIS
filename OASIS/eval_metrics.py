@@ -32,7 +32,7 @@ def eval_bias_variance_4to5keV(
     if sel.size == 0:
         raise ValueError("No events satisfy 4.0 <= ER_truth_energy < 5.0")
 
-    # You guaranteed df index aligns with ds index
+    #df index aligns with ds index
     ds_sel = Subset(ds, sel.tolist())
 
     dl = DataLoader(

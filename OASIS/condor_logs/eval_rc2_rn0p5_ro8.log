@@ -1,0 +1,159 @@
+000 (2689830.000.000) 2026-03-04 10:02:19 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+    DAG Node: J_eval_rc2_rn0p5_ro8
+...
+040 (2689830.000.000) 2026-03-04 10:02:20 Started transferring input files
+	Transferring to host: <130.246.47.9:9618?addrs=130.246.47.9-9618+[2001-630-58-1c20--82f6-2f09]-9618&alias=mercury009.pp.rl.ac.uk&noUDP&sock=slot1_1_13594_f3e2_2107>
+...
+040 (2689830.000.000) 2026-03-04 10:02:20 Finished transferring input files
+...
+001 (2689830.000.000) 2026-03-04 10:02:21 Job executing on host: <130.246.47.9:9618?addrs=130.246.47.9-9618+[2001-630-58-1c20--82f6-2f09]-9618&alias=mercury009.pp.rl.ac.uk&noUDP&sock=startd_13386_42d5>
+	SlotName: slot1_1@mercury009.pp.rl.ac.uk
+	CondorScratchDir = "/scratch/condor/dir_1181313"
+	Cpus = 2
+	Disk = 2048
+	GPUs = 0
+	Memory = 8200
+...
+006 (2689830.000.000) 2026-03-04 10:02:30 Image size of job updated: 128620
+	126  -  MemoryUsage of job (MB)
+	128620  -  ResidentSetSize of job (KB)
+...
+006 (2689830.000.000) 2026-03-04 10:03:03 Image size of job updated: 248668
+	126  -  MemoryUsage of job (MB)
+	128624  -  ResidentSetSize of job (KB)
+...
+040 (2689830.000.000) 2026-03-04 10:03:03 Started transferring output files
+...
+040 (2689830.000.000) 2026-03-04 10:03:03 Finished transferring output files
+...
+005 (2689830.000.000) 2026-03-04 10:03:03 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:04, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:04, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1076  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1076  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :       22        1      2048 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      126     8192      8200 
+	   TimeExecute (s)      :       42                    
+	   TimeSlotBusy (s)     :       43                    
+...
+000 (2689843.027.000) 2026-03-04 19:21:57 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+033 (2689843.027.000) 2026-03-04 19:22:11 Changing job attribute JobPrio from 0 to 100000
+...
+009 (2689843.027.000) 2026-03-04 19:23:28 Job was aborted.
+	via condor_rm (by user jschueler1)
+...
+000 (2689844.027.000) 2026-03-04 19:24:13 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+033 (2689844.027.000) 2026-03-04 19:24:27 Changing job attribute JobPrio from 0 to 100
+...
+009 (2689844.027.000) 2026-03-04 19:29:18 Job was aborted.
+	via condor_rm (by user jschueler1)
+...
+000 (2689845.027.000) 2026-03-04 19:32:38 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+033 (2689845.027.000) 2026-03-04 19:32:48 Changing job attribute JobPrio from 0 to 100
+...
+009 (2689845.027.000) 2026-03-04 19:37:01 Job was aborted.
+	via condor_rm (by user jschueler1)
+...
+000 (2689846.027.000) 2026-03-04 19:37:18 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+040 (2689846.027.000) 2026-03-04 19:37:40 Started transferring input files
+	Transferring to host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=slot1_1_13801_cd8a_1117>
+...
+040 (2689846.027.000) 2026-03-04 19:37:40 Finished transferring input files
+...
+001 (2689846.027.000) 2026-03-04 19:37:41 Job executing on host: <130.246.44.56:9618?addrs=130.246.44.56-9618+[2001-630-58-1c20--82f6-2c38]-9618&alias=hepacc06.pp.rl.ac.uk&noUDP&sock=startd_13623_d2c7>
+	SlotName: slot1_1@hepacc06.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_8d098f6e }
+	CondorScratchDir = "/scratch/condor/dir_2555739"
+	Cpus = 8
+	Disk = 2762
+	GPUs = 1
+	GPUs_GPU_8d098f6e = [ Id = "GPU-8d098f6e"; ClockMhz = 1770.0; Capability = 7.5; CoresPerCU = 64; DeviceName = "NVIDIA TITAN RTX"; DeviceUuid = "8d098f6e-11c9-d9f5-61d1-6bd7a877b39b"; ECCEnabled = false; ComputeUnits = 72; NvidiaDriver = "590.48.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 24023; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+006 (2689846.027.000) 2026-03-04 19:37:45 Image size of job updated: 60
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (2689846.027.000) 2026-03-04 19:37:45 Started transferring output files
+...
+040 (2689846.027.000) 2026-03-04 19:37:45 Finished transferring output files
+...
+005 (2689846.027.000) 2026-03-04 19:37:45 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:02, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:02, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1054  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	1054  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :        0        8         8 
+	   Disk (KB)            :       26        1      2762 
+	   GPUs                 :        0        1         1 "GPU-8d098f6e"
+	   Memory (MB)          :        0    24576     24600 
+	   TimeExecute (s)      :        4                    
+	   TimeSlotBusy (s)     :        5                    
+...
+000 (2689847.027.000) 2026-03-04 19:39:13 Job submitted from host: <130.246.244.147:9618?addrs=130.246.244.147-9618+[2001-630-58-1c00--82f6-f493]-9618&alias=heplnv147.pp.rl.ac.uk&noUDP&sock=schedd_7531_37d3>
+...
+033 (2689847.027.000) 2026-03-04 19:39:28 Changing job attribute JobPrio from 0 to 100
+...
+040 (2689847.027.000) 2026-03-04 19:40:23 Started transferring input files
+	Transferring to host: <130.246.44.65:9618?addrs=130.246.44.65-9618+[2001-630-58-1c20--82f6-2c41]-9618&alias=hepacc15.pp.rl.ac.uk&noUDP&sock=slot1_1_14974_499a_1122>
+...
+040 (2689847.027.000) 2026-03-04 19:40:23 Finished transferring input files
+...
+001 (2689847.027.000) 2026-03-04 19:40:24 Job executing on host: <130.246.44.65:9618?addrs=130.246.44.65-9618+[2001-630-58-1c20--82f6-2c41]-9618&alias=hepacc15.pp.rl.ac.uk&noUDP&sock=startd_14906_daca>
+	SlotName: slot1_1@hepacc15.pp.rl.ac.uk
+	AvailableGPUs = { GPUs_GPU_d9b658a2 }
+	CondorScratchDir = "/scratch/condor/dir_2756002"
+	Cpus = 8
+	Disk = 5046
+	GPUs = 1
+	GPUs_GPU_d9b658a2 = [ Id = "GPU-d9b658a2"; ClockMhz = 1410.0; Capability = 8.0; CoresPerCU = 64; DeviceName = "NVIDIA A100 80GB PCIe"; DeviceUuid = "d9b658a2-c95a-d526-02a8-5a7d074d5a8b"; ECCEnabled = true; ComputeUnits = 108; NvidiaDriver = "590.44.01"; DriverVersion = 13.1; DevicePciBusId = "0000:3B:00.0"; GlobalMemoryMb = 81153; MaxSupportedVersion = 13010 ]
+	Memory = 24600
+...
+006 (2689847.027.000) 2026-03-04 19:40:33 Image size of job updated: 1136148
+	1110  -  MemoryUsage of job (MB)
+	1136148  -  ResidentSetSize of job (KB)
+...
+006 (2689847.027.000) 2026-03-04 19:40:43 Image size of job updated: 2374216
+	1111  -  MemoryUsage of job (MB)
+	1137300  -  ResidentSetSize of job (KB)
+...
+040 (2689847.027.000) 2026-03-04 19:40:43 Started transferring output files
+...
+040 (2689847.027.000) 2026-03-04 19:40:43 Finished transferring output files
+...
+005 (2689847.027.000) 2026-03-04 19:40:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:06, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:06, Sys 0 00:00:06  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	5145  -  Run Bytes Sent By Job
+	326  -  Run Bytes Received By Job
+	5145  -  Total Bytes Sent By Job
+	326  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :        0        8         8 
+	   Disk (KB)            :       30        1      5046 
+	   GPUs                 :        0        1         1 "GPU-d9b658a2"
+	   Memory (MB)          :     1111    24576     24600 
+	   TimeExecute (s)      :       19                    
+	   TimeSlotBusy (s)     :       20                    
+...

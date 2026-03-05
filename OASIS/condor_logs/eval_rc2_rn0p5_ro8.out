@@ -1,0 +1,5 @@
+[INFO] host=hepacc15.pp.rl.ac.uk
+[INFO] pwd=/scratch/condor/dir_2756002
+[INFO] python=/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin/python
+[4-5 keV] N=157 | median=-1.111% | p25=-4.532% | p75=5.049%
+Wrote /mercury/data3/jschueler1/OASIS_data/OASIS_models/oasis_ablation/rc2_rn0p5_ro8/metrics.json

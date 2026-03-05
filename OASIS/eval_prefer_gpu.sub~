@@ -1,0 +1,34 @@
+universe   = vanilla
+getenv     = True
+
+request_gpus   = 1
+request_cpus   = 8
+request_memory = 24GB
+
+# Run from repo root so OASIS is importable (and mounts exist)
+initialdir = /mercury/data3/jschueler1/OASIS/OASIS
+
+executable = $(initialdir)/run_eval.sh
+
+# IMPORTANT: keep eval in mercury FS domain if that’s what worked for you
+#requirements = regexp("^mercury", TARGET.FileSystemDomain)
+
+requirements = (regexp("A100", GPUs_DeviceName) || regexp("TITAN RTX", GPUs_DeviceName))
+# Prefer the same GPU node types used in training, but do not require them
+#rank = ( regexp("A100", GPUs_DeviceName) * 1000
+#       + regexp("TITAN RTX", GPUs_DeviceName) * 500
+#       + (TARGET.Cpus) )
+
+environment = \
+  "PYTHON=/opt/ppd/software/miniforge3/envs/MIGDAL_Py310/bin/python \
+   RUN_ID=$(run_id) \
+   DATA_ROOT=$(data_root) MODEL_ROOT=$(model_root) \
+   DF_PATH=$(df_path) SPECIES=$(species)"
+
+log    = condor_logs/eval_$(run_id).log
+output = condor_logs/eval_$(run_id).out
+error  = condor_logs/eval_$(run_id).err
+
+should_transfer_files = NO
+
+queue run_id from run_ids.txt

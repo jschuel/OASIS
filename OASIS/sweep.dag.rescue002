@@ -1,0 +1,46 @@
+# Rescue DAG file, created after running
+#   the sweep.dag DAG file
+# Created 3/4/2026 18:03:41 UTC
+# Rescue DAG version: 2.0.1 (partial)
+#
+# Total number of Nodes: 72
+# Nodes premarked DONE: 36
+# Nodes that failed: 36
+#   J_eval_rc0p5_rn0p5_ro1,J_eval_rc0p5_rn0p5_ro2,J_eval_rc0p5_rn0p5_ro4,J_eval_rc0p5_rn0p5_ro8,J_eval_rc0p5_rn1_ro1,J_eval_rc0p5_rn1_ro2,J_eval_rc0p5_rn1_ro4,J_eval_rc0p5_rn1_ro8,J_eval_rc0p5_rn2_ro1,J_eval_rc0p5_rn2_ro2,J_eval_rc0p5_rn2_ro4,J_eval_rc0p5_rn2_ro8,J_eval_rc1_rn0p5_ro1,J_eval_rc1_rn0p5_ro2,J_eval_rc1_rn0p5_ro4,J_eval_rc1_rn0p5_ro8,J_eval_rc1_rn1_ro1,J_eval_rc1_rn1_ro2,J_eval_rc1_rn1_ro4,J_eval_rc1_rn1_ro8,J_eval_rc1_rn2_ro1,J_eval_rc1_rn2_ro2,J_eval_rc1_rn2_ro4,J_eval_rc1_rn2_ro8,J_eval_rc2_rn0p5_ro1,J_eval_rc2_rn0p5_ro2,J_eval_rc2_rn0p5_ro4,J_eval_rc2_rn0p5_ro8,J_eval_rc2_rn1_ro1,J_eval_rc2_rn1_ro2,J_eval_rc2_rn1_ro4,J_eval_rc2_rn1_ro8,J_eval_rc2_rn2_ro1,J_eval_rc2_rn2_ro2,J_eval_rc2_rn2_ro4,J_eval_rc2_rn2_ro8,<ENDLIST>
+
+DONE J_train_rc0p5_rn0p5_ro1
+DONE J_train_rc0p5_rn0p5_ro2
+DONE J_train_rc0p5_rn0p5_ro4
+DONE J_train_rc0p5_rn0p5_ro8
+DONE J_train_rc0p5_rn1_ro1
+DONE J_train_rc0p5_rn1_ro2
+DONE J_train_rc0p5_rn1_ro4
+DONE J_train_rc0p5_rn1_ro8
+DONE J_train_rc0p5_rn2_ro1
+DONE J_train_rc0p5_rn2_ro2
+DONE J_train_rc0p5_rn2_ro4
+DONE J_train_rc0p5_rn2_ro8
+DONE J_train_rc1_rn0p5_ro1
+DONE J_train_rc1_rn0p5_ro2
+DONE J_train_rc1_rn0p5_ro4
+DONE J_train_rc1_rn0p5_ro8
+DONE J_train_rc1_rn1_ro1
+DONE J_train_rc1_rn1_ro2
+DONE J_train_rc1_rn1_ro4
+DONE J_train_rc1_rn1_ro8
+DONE J_train_rc1_rn2_ro1
+DONE J_train_rc1_rn2_ro2
+DONE J_train_rc1_rn2_ro4
+DONE J_train_rc1_rn2_ro8
+DONE J_train_rc2_rn0p5_ro1
+DONE J_train_rc2_rn0p5_ro2
+DONE J_train_rc2_rn0p5_ro4
+DONE J_train_rc2_rn0p5_ro8
+DONE J_train_rc2_rn1_ro1
+DONE J_train_rc2_rn1_ro2
+DONE J_train_rc2_rn1_ro4
+DONE J_train_rc2_rn1_ro8
+DONE J_train_rc2_rn2_ro1
+DONE J_train_rc2_rn2_ro2
+DONE J_train_rc2_rn2_ro4
+DONE J_train_rc2_rn2_ro8
